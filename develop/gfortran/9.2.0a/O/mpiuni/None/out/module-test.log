@@ -1,0 +1,26 @@
+++ /apps/lmod/8.5.2/libexec/lmod bash list
++ eval echo ''\'''\'';' echo ''\''Currently'\''' ''\''Loaded'\''' ''\''Modules:'\'';' echo ''\'''\''' ''\'''\''' ''\''1)'\''' ''\''intelpython/2022.1.2'\''' ''\'''\''' ''\'''\''' ''\''2)'\''' ''\''gnu/9.2.0'\''' ''\'''\''' ''\'''\''' ''\''3)'\''' ''\''netcdf/4.7.2'\'';' echo ''\'''\'';' echo ''\'''\''' ''\'''\'';' echo ''\'''\'';' 'MODULEPATH=/apps/modules/modulefamilies/gnu:/apps/lmod/lmod/modulefiles/Core:/apps/modules/modulefiles/Linux:/apps/modules/modulefiles;' export 'MODULEPATH;' '_ModuleTable001_=X01vZHVsZVRhYmxlXz17WyJNVHZlcnNpb24iXT0zLFsiY19yZWJ1aWxkVGltZSJdPTAuMDgzMzMzMzMzMzMzMzMzLFsiY19zaG9ydFRpbWUiXT0xLjE1MTAyMTAwMzcyMzEsZGVwdGhUPXt9LGZhbWlseT17fSxtVD17Z251PXtbImZuIl09Ii9hcHBzL21vZHVsZXMvbW9kdWxlZmlsZXMvZ251LzkuMi4wIixbImZ1bGxOYW1lIl09ImdudS85LjIuMCIsWyJsb2FkT3JkZXIiXT0yLHByb3BUPXt9LFsic3RhY2tEZXB0aCJdPTAsWyJzdGF0dXMiXT0iYWN0aXZlIixbInVzZXJOYW1lIl09ImdudS85LjIuMCIsWyJ3ViJdPSIwMDAwMDAwMDkuMDAwMDAwMDAyLip6ZmluYWwiLH0saW50ZWxweXRob249e1siZm4iXT0iL2FwcHMvbW9kdWxlcy9tb2R1bGVmaWxlcy9pbnRlbHB5dGhvbi8y;' export '_ModuleTable001_;' '_ModuleTable002_=MDIyLjEuMiIsWyJmdWxsTmFtZSJdPSJpbnRlbHB5dGhvbi8yMDIyLjEuMiIsWyJsb2FkT3JkZXIiXT0xLHByb3BUPXt9LFsic3RhY2tEZXB0aCJdPTAsWyJzdGF0dXMiXT0iYWN0aXZlIixbInVzZXJOYW1lIl09ImludGVscHl0aG9uIixbIndWIl09IjAwMDAwMjAyMi4wMDAwMDAwMDEuMDAwMDAwMDAyLip6ZmluYWwiLH0sbmV0Y2RmPXtbImZuIl09Ii9hcHBzL21vZHVsZXMvbW9kdWxlZmFtaWxpZXMvZ251L25ldGNkZi80LjcuMiIsWyJmdWxsTmFtZSJdPSJuZXRjZGYvNC43LjIiLFsibG9hZE9yZGVyIl09Myxwcm9wVD17fSxbInN0YWNrRGVwdGgiXT0wLFsic3RhdHVzIl09ImFjdGl2ZSIsWyJ1c2VyTmFtZSJdPSJuZXRjZGYvNC43LjIiLFsid1YiXT0iMDAwMDAwMDA0LjAw;' export '_ModuleTable002_;' '_ModuleTable003_=MDAwMDAwNy4wMDAwMDAwMDIuKnpmaW5hbCIsfSx9LG1wYXRoQT17Ii9hcHBzL21vZHVsZXMvbW9kdWxlZmFtaWxpZXMvZ251IiwiL2FwcHMvbG1vZC9sbW9kL21vZHVsZWZpbGVzL0NvcmUiLCIvYXBwcy9tb2R1bGVzL21vZHVsZWZpbGVzL0xpbnV4IiwiL2FwcHMvbW9kdWxlcy9tb2R1bGVmaWxlcyIsfSxbInN5c3RlbUJhc2VNUEFUSCJdPSIvYXBwcy9sbW9kL2xtb2QvbW9kdWxlZmlsZXMvQ29yZTovYXBwcy9tb2R1bGVzL21vZHVsZWZpbGVzL0xpbnV4Oi9hcHBzL21vZHVsZXMvbW9kdWxlZmlsZXMiLH0=;' export '_ModuleTable003_;' '_ModuleTable_Sz_=3;' export '_ModuleTable_Sz_;'
+++ echo ''
+
+++ echo Currently Loaded Modules:
+Currently Loaded Modules:
+++ echo '' '' '1)' intelpython/2022.1.2 '' '' '2)' gnu/9.2.0 '' '' '3)' netcdf/4.7.2
+  1) intelpython/2022.1.2   2) gnu/9.2.0   3) netcdf/4.7.2
+++ echo ''
+
+++ echo '' ''
+ 
+++ echo ''
+
+++ MODULEPATH=/apps/modules/modulefamilies/gnu:/apps/lmod/lmod/modulefiles/Core:/apps/modules/modulefiles/Linux:/apps/modules/modulefiles
+++ export MODULEPATH
+++ _ModuleTable001_=X01vZHVsZVRhYmxlXz17WyJNVHZlcnNpb24iXT0zLFsiY19yZWJ1aWxkVGltZSJdPTAuMDgzMzMzMzMzMzMzMzMzLFsiY19zaG9ydFRpbWUiXT0xLjE1MTAyMTAwMzcyMzEsZGVwdGhUPXt9LGZhbWlseT17fSxtVD17Z251PXtbImZuIl09Ii9hcHBzL21vZHVsZXMvbW9kdWxlZmlsZXMvZ251LzkuMi4wIixbImZ1bGxOYW1lIl09ImdudS85LjIuMCIsWyJsb2FkT3JkZXIiXT0yLHByb3BUPXt9LFsic3RhY2tEZXB0aCJdPTAsWyJzdGF0dXMiXT0iYWN0aXZlIixbInVzZXJOYW1lIl09ImdudS85LjIuMCIsWyJ3ViJdPSIwMDAwMDAwMDkuMDAwMDAwMDAyLip6ZmluYWwiLH0saW50ZWxweXRob249e1siZm4iXT0iL2FwcHMvbW9kdWxlcy9tb2R1bGVmaWxlcy9pbnRlbHB5dGhvbi8y
+++ export _ModuleTable001_
+++ _ModuleTable002_=MDIyLjEuMiIsWyJmdWxsTmFtZSJdPSJpbnRlbHB5dGhvbi8yMDIyLjEuMiIsWyJsb2FkT3JkZXIiXT0xLHByb3BUPXt9LFsic3RhY2tEZXB0aCJdPTAsWyJzdGF0dXMiXT0iYWN0aXZlIixbInVzZXJOYW1lIl09ImludGVscHl0aG9uIixbIndWIl09IjAwMDAwMjAyMi4wMDAwMDAwMDEuMDAwMDAwMDAyLip6ZmluYWwiLH0sbmV0Y2RmPXtbImZuIl09Ii9hcHBzL21vZHVsZXMvbW9kdWxlZmFtaWxpZXMvZ251L25ldGNkZi80LjcuMiIsWyJmdWxsTmFtZSJdPSJuZXRjZGYvNC43LjIiLFsibG9hZE9yZGVyIl09Myxwcm9wVD17fSxbInN0YWNrRGVwdGgiXT0wLFsic3RhdHVzIl09ImFjdGl2ZSIsWyJ1c2VyTmFtZSJdPSJuZXRjZGYvNC43LjIiLFsid1YiXT0iMDAwMDAwMDA0LjAw
+++ export _ModuleTable002_
+++ _ModuleTable003_=MDAwMDAwNy4wMDAwMDAwMDIuKnpmaW5hbCIsfSx9LG1wYXRoQT17Ii9hcHBzL21vZHVsZXMvbW9kdWxlZmFtaWxpZXMvZ251IiwiL2FwcHMvbG1vZC9sbW9kL21vZHVsZWZpbGVzL0NvcmUiLCIvYXBwcy9tb2R1bGVzL21vZHVsZWZpbGVzL0xpbnV4IiwiL2FwcHMvbW9kdWxlcy9tb2R1bGVmaWxlcyIsfSxbInN5c3RlbUJhc2VNUEFUSCJdPSIvYXBwcy9sbW9kL2xtb2QvbW9kdWxlZmlsZXMvQ29yZTovYXBwcy9tb2R1bGVzL21vZHVsZWZpbGVzL0xpbnV4Oi9hcHBzL21vZHVsZXMvbW9kdWxlZmlsZXMiLH0=
+++ export _ModuleTable003_
+++ _ModuleTable_Sz_=3
+++ export _ModuleTable_Sz_
+++ : -s sh
++ eval
