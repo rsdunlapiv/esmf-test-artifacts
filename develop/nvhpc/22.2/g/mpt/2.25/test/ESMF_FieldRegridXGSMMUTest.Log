@@ -1,0 +1,113 @@
+2022-07-14 02:23:12
+20220714 025554.122 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.122 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20220714 025554.122 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20220714 025554.122 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20220714 025554.122 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20220714 025554.122 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.122 INFO             PET0 Running with ESMF Version   : v8.4.0b04
+20220714 025554.122 INFO             PET0 ESMF library build date/time: "Jul 14 2022" "02:19:46"
+20220714 025554.122 INFO             PET0 ESMF library build location : /glade/scratch/dunlap/esmf-test-dev/nvhpc_22.2_mpt_g_develop/esmf
+20220714 025554.122 INFO             PET0 ESMF_COMM                   : mpt
+20220714 025554.122 INFO             PET0 ESMF_MOAB                   : enabled
+20220714 025554.122 INFO             PET0 ESMF_LAPACK                 : enabled
+20220714 025554.122 INFO             PET0 ESMF_NETCDF                 : enabled
+20220714 025554.122 INFO             PET0 ESMF_PNETCDF                : disabled
+20220714 025554.122 INFO             PET0 ESMF_PIO                    : enabled
+20220714 025554.122 INFO             PET0 ESMF_YAMLCPP                : enabled
+20220714 025554.122 INFO             PET0  Beginning Test, file ESMF_FieldRegridXGSMMUTest.F90, line 51
+20220714 025554.122 INFO             PET0  NUMBER_OF_PROCESSORS            2
+20220714 025554.129 WARNING          PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.129 WARNING          PET0 !!! Calling ESMCI::Array::sparseMatMul() with CHECKFLAG!
+20220714 025554.129 WARNING          PET0 !!! Extra checking comes at the cost  !!!
+20220714 025554.129 WARNING          PET0 !!! of performance. Only use for      !!!
+20220714 025554.129 WARNING          PET0 !!! debugging, NOT for production!    !!!
+20220714 025554.129 WARNING          PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.130 WARNING          PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.130 WARNING          PET0 !!! Calling ESMCI::Array::sparseMatMul() with CHECKFLAG!
+20220714 025554.130 WARNING          PET0 !!! Extra checking comes at the cost  !!!
+20220714 025554.130 WARNING          PET0 !!! of performance. Only use for      !!!
+20220714 025554.130 WARNING          PET0 !!! debugging, NOT for production!    !!!
+20220714 025554.130 WARNING          PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.131 WARNING          PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.131 WARNING          PET0 !!! Calling ESMCI::Array::sparseMatMul() with CHECKFLAG!
+20220714 025554.131 WARNING          PET0 !!! Extra checking comes at the cost  !!!
+20220714 025554.131 WARNING          PET0 !!! of performance. Only use for      !!!
+20220714 025554.131 WARNING          PET0 !!! debugging, NOT for production!    !!!
+20220714 025554.131 WARNING          PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.131 INFO             PET0  PASS  Create xgrid and regrid through xgrid, const src flux, ESMF_FieldRegridXGSMMUTest.F90, line 60
+20220714 025554.134 WARNING          PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.134 WARNING          PET0 !!! Calling ESMCI::Array::sparseMatMul() with CHECKFLAG!
+20220714 025554.134 WARNING          PET0 !!! Extra checking comes at the cost  !!!
+20220714 025554.134 WARNING          PET0 !!! of performance. Only use for      !!!
+20220714 025554.134 WARNING          PET0 !!! debugging, NOT for production!    !!!
+20220714 025554.134 WARNING          PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.135 WARNING          PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.135 WARNING          PET0 !!! Calling ESMCI::Array::sparseMatMul() with CHECKFLAG!
+20220714 025554.137 WARNING          PET0 !!! Extra checking comes at the cost  !!!
+20220714 025554.137 WARNING          PET0 !!! of performance. Only use for      !!!
+20220714 025554.137 WARNING          PET0 !!! debugging, NOT for production!    !!!
+20220714 025554.137 WARNING          PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.138 WARNING          PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.138 WARNING          PET0 !!! Calling ESMCI::Array::sparseMatMul() with CHECKFLAG!
+20220714 025554.138 WARNING          PET0 !!! Extra checking comes at the cost  !!!
+20220714 025554.138 WARNING          PET0 !!! of performance. Only use for      !!!
+20220714 025554.138 WARNING          PET0 !!! debugging, NOT for production!    !!!
+20220714 025554.138 WARNING          PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.138 INFO             PET0  PASS  Create xgrid and regrid through xgrid, variable src flux, ESMF_FieldRegridXGSMMUTest.F90, line 67
+20220714 025554.121 INFO             PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.122 INFO             PET1 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20220714 025554.122 INFO             PET1 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20220714 025554.122 INFO             PET1 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20220714 025554.122 INFO             PET1 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20220714 025554.122 INFO             PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.122 INFO             PET1 Running with ESMF Version   : v8.4.0b04
+20220714 025554.122 INFO             PET1 ESMF library build date/time: "Jul 14 2022" "02:19:46"
+20220714 025554.122 INFO             PET1 ESMF library build location : /glade/scratch/dunlap/esmf-test-dev/nvhpc_22.2_mpt_g_develop/esmf
+20220714 025554.122 INFO             PET1 ESMF_COMM                   : mpt
+20220714 025554.122 INFO             PET1 ESMF_MOAB                   : enabled
+20220714 025554.122 INFO             PET1 ESMF_LAPACK                 : enabled
+20220714 025554.122 INFO             PET1 ESMF_NETCDF                 : enabled
+20220714 025554.122 INFO             PET1 ESMF_PNETCDF                : disabled
+20220714 025554.122 INFO             PET1 ESMF_PIO                    : enabled
+20220714 025554.122 INFO             PET1 ESMF_YAMLCPP                : enabled
+20220714 025554.122 INFO             PET1  Beginning Test, file ESMF_FieldRegridXGSMMUTest.F90, line 51
+20220714 025554.122 INFO             PET1  NUMBER_OF_PROCESSORS            2
+20220714 025554.129 WARNING          PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.129 WARNING          PET1 !!! Calling ESMCI::Array::sparseMatMul() with CHECKFLAG!
+20220714 025554.129 WARNING          PET1 !!! Extra checking comes at the cost  !!!
+20220714 025554.129 WARNING          PET1 !!! of performance. Only use for      !!!
+20220714 025554.129 WARNING          PET1 !!! debugging, NOT for production!    !!!
+20220714 025554.129 WARNING          PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.130 WARNING          PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.130 WARNING          PET1 !!! Calling ESMCI::Array::sparseMatMul() with CHECKFLAG!
+20220714 025554.130 WARNING          PET1 !!! Extra checking comes at the cost  !!!
+20220714 025554.130 WARNING          PET1 !!! of performance. Only use for      !!!
+20220714 025554.130 WARNING          PET1 !!! debugging, NOT for production!    !!!
+20220714 025554.130 WARNING          PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.131 WARNING          PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.131 WARNING          PET1 !!! Calling ESMCI::Array::sparseMatMul() with CHECKFLAG!
+20220714 025554.131 WARNING          PET1 !!! Extra checking comes at the cost  !!!
+20220714 025554.131 WARNING          PET1 !!! of performance. Only use for      !!!
+20220714 025554.131 WARNING          PET1 !!! debugging, NOT for production!    !!!
+20220714 025554.131 WARNING          PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.131 INFO             PET1  PASS  Create xgrid and regrid through xgrid, const src flux, ESMF_FieldRegridXGSMMUTest.F90, line 60
+20220714 025554.134 WARNING          PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.134 WARNING          PET1 !!! Calling ESMCI::Array::sparseMatMul() with CHECKFLAG!
+20220714 025554.134 WARNING          PET1 !!! Extra checking comes at the cost  !!!
+20220714 025554.134 WARNING          PET1 !!! of performance. Only use for      !!!
+20220714 025554.134 WARNING          PET1 !!! debugging, NOT for production!    !!!
+20220714 025554.134 WARNING          PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.135 WARNING          PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.135 WARNING          PET1 !!! Calling ESMCI::Array::sparseMatMul() with CHECKFLAG!
+20220714 025554.137 WARNING          PET1 !!! Extra checking comes at the cost  !!!
+20220714 025554.137 WARNING          PET1 !!! of performance. Only use for      !!!
+20220714 025554.137 WARNING          PET1 !!! debugging, NOT for production!    !!!
+20220714 025554.137 WARNING          PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.138 WARNING          PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.138 WARNING          PET1 !!! Calling ESMCI::Array::sparseMatMul() with CHECKFLAG!
+20220714 025554.138 WARNING          PET1 !!! Extra checking comes at the cost  !!!
+20220714 025554.138 WARNING          PET1 !!! of performance. Only use for      !!!
+20220714 025554.138 WARNING          PET1 !!! debugging, NOT for production!    !!!
+20220714 025554.138 WARNING          PET1 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 025554.138 INFO             PET1  PASS  Create xgrid and regrid through xgrid, variable src flux, ESMF_FieldRegridXGSMMUTest.F90, line 67
