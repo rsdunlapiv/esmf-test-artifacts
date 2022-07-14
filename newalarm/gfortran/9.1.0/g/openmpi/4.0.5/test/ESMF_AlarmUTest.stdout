@@ -1,0 +1,4812 @@
+2022-07-14 01:50:38
+  Beginning Test, file ESMF_AlarmUTest.F90, line 98
+  Beginning Test, file ESMF_AlarmUTest.F90, line 98
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_AlarmUTest.F90, line 98
+  NUMBER_OF_PROCESSORS           4
+  Beginning Test, file ESMF_AlarmUTest.F90, line 98
+  NUMBER_OF_PROCESSORS           4
+  NUMBER_OF_PROCESSORS           4
+  PASS  Set Time Interval Initialization Test, ESMF_AlarmUTest.F90, line 141
+  PASS  Set Time Interval Initialization Test, ESMF_AlarmUTest.F90, line 141
+  PASS  Set Time Interval Initialization Test, ESMF_AlarmUTest.F90, line 141
+  PASS  Set Time Interval Initialization Test, ESMF_AlarmUTest.F90, line 141
+  PASS  Set Start Time Initialization Test, ESMF_AlarmUTest.F90, line 153
+  PASS  Set Start Time Initialization Test, ESMF_AlarmUTest.F90, line 153
+  PASS  Set Start Time Initialization Test, ESMF_AlarmUTest.F90, line 153
+  PASS  Set Start Time Initialization Test, ESMF_AlarmUTest.F90, line 153
+  PASS  Stop Time Initialization Test, ESMF_AlarmUTest.F90, line 163
+  PASS  Stop Time Initialization Test, ESMF_AlarmUTest.F90, line 163
+  PASS  Alarm Time Initialization Test, ESMF_AlarmUTest.F90, line 172
+  PASS  Stop Time Initialization Test, ESMF_AlarmUTest.F90, line 163
+  PASS  Alarm Time Initialization Test, ESMF_AlarmUTest.F90, line 172
+  PASS  Stop Time Initialization Test, ESMF_AlarmUTest.F90, line 163
+  PASS  Alarm Time Initialization Test, ESMF_AlarmUTest.F90, line 172
+  PASS  Alarm Time Initialization Test, ESMF_AlarmUTest.F90, line 172
+  PASS  Clock Initialization Test, ESMF_AlarmUTest.F90, line 182
+  PASS  Clock Initialization Test, ESMF_AlarmUTest.F90, line 182
+  PASS  Clock Initialization Test, ESMF_AlarmUTest.F90, line 182
+  PASS  Clock Initialization Test, ESMF_AlarmUTest.F90, line 182
+  PASS  Create Alarm Test, ESMF_AlarmUTest.F90, line 191
+  PASS  Create Alarm Test, ESMF_AlarmUTest.F90, line 191
+  PASS  Create Alarm Test, ESMF_AlarmUTest.F90, line 191
+  PASS  Create Alarm Test, ESMF_AlarmUTest.F90, line 191
+  PASS  Destroy Alarm Test, ESMF_AlarmUTest.F90, line 199
+  PASS  Destroy Alarm Test, ESMF_AlarmUTest.F90, line 199
+  PASS  Destroy Alarm Test, ESMF_AlarmUTest.F90, line 199
+  PASS  Destroy Alarm Test, ESMF_AlarmUTest.F90, line 199
+  PASS  Testing Alarm IsCreated for uncreated object, ESMF_AlarmUTest.F90, line 207
+  PASS  Testing Alarm IsCreated for uncreated object, ESMF_AlarmUTest.F90, line 207
+  PASS  Testing Alarm IsCreated for uncreated object, ESMF_AlarmUTest.F90, line 215
+  PASS  Testing Alarm IsCreated for uncreated object, ESMF_AlarmUTest.F90, line 207
+  PASS  Testing Alarm IsCreated for uncreated object, ESMF_AlarmUTest.F90, line 207
+  PASS  Testing Alarm IsCreated for uncreated object, ESMF_AlarmUTest.F90, line 215
+  PASS  Testing Alarm IsCreated for uncreated object, ESMF_AlarmUTest.F90, line 215
+  PASS  Testing Alarm IsCreated for uncreated object, ESMF_AlarmUTest.F90, line 215
+  PASS  Create test Alarm for IsCreated, ESMF_AlarmUTest.F90, line 223
+  PASS  Create test Alarm for IsCreated, ESMF_AlarmUTest.F90, line 223
+  PASS  Create test Alarm for IsCreated, ESMF_AlarmUTest.F90, line 223
+  PASS  Testing Alarm IsCreated for created object, ESMF_AlarmUTest.F90, line 231
+  PASS  Testing Alarm IsCreated for created object, ESMF_AlarmUTest.F90, line 231
+  PASS  Testing Alarm IsCreated for created object, ESMF_AlarmUTest.F90, line 239
+  PASS  Create test Alarm for IsCreated, ESMF_AlarmUTest.F90, line 223
+  PASS  Testing Alarm IsCreated for created object, ESMF_AlarmUTest.F90, line 231
+  PASS  Testing Alarm IsCreated for created object, ESMF_AlarmUTest.F90, line 239
+  PASS  Testing Alarm IsCreated for created object, ESMF_AlarmUTest.F90, line 239
+  PASS  Testing Alarm IsCreated for created object, ESMF_AlarmUTest.F90, line 231
+  PASS  Testing Alarm IsCreated for created object, ESMF_AlarmUTest.F90, line 239
+  PASS  Destroy test Alarm for IsCreated, ESMF_AlarmUTest.F90, line 247
+  PASS  Destroy test Alarm for IsCreated, ESMF_AlarmUTest.F90, line 247
+  PASS  Testing Alarm IsCreated for destroyed object, ESMF_AlarmUTest.F90, line 255
+  PASS  Destroy test Alarm for IsCreated, ESMF_AlarmUTest.F90, line 247
+  PASS  Testing Alarm IsCreated for destroyed object, ESMF_AlarmUTest.F90, line 255
+  PASS  Testing Alarm IsCreated for destroyed object, ESMF_AlarmUTest.F90, line 255
+  PASS  Testing Alarm IsCreated for destroyed object, ESMF_AlarmUTest.F90, line 263
+  PASS  Get number of alarms after destroyed Alarm Test, ESMF_AlarmUTest.F90, line 277
+  PASS  Get a destroyed Alarm Test, ESMF_AlarmUTest.F90, line 287
+  PASS  Advance clock after destroyed alarm test, ESMF_AlarmUTest.F90, line 296
+  PASS  Destroy test Alarm for IsCreated, ESMF_AlarmUTest.F90, line 247
+  PASS  Testing Alarm IsCreated for destroyed object, ESMF_AlarmUTest.F90, line 255
+  PASS  Testing Alarm IsCreated for destroyed object, ESMF_AlarmUTest.F90, line 263
+  PASS  Get number of alarms after destroyed Alarm Test, ESMF_AlarmUTest.F90, line 277
+  PASS  Get a destroyed Alarm Test, ESMF_AlarmUTest.F90, line 287
+  PASS  Advance clock after destroyed alarm test, ESMF_AlarmUTest.F90, line 296
+  PASS  Testing Alarm IsCreated for destroyed object, ESMF_AlarmUTest.F90, line 263
+  PASS  Get number of alarms after destroyed Alarm Test, ESMF_AlarmUTest.F90, line 277
+  PASS  Get a destroyed Alarm Test, ESMF_AlarmUTest.F90, line 287
+  PASS  Advance clock after destroyed alarm test, ESMF_AlarmUTest.F90, line 296
+  PASS  Testing Alarm IsCreated for destroyed object, ESMF_AlarmUTest.F90, line 263
+  PASS  Get number of alarms after destroyed Alarm Test, ESMF_AlarmUTest.F90, line 277
+  PASS  Get a destroyed Alarm Test, ESMF_AlarmUTest.F90, line 287
+  PASS  Advance clock after destroyed alarm test, ESMF_AlarmUTest.F90, line 296
+  PASS  Destroy a destroyed Alarm Test, ESMF_AlarmUTest.F90, line 305
+  PASS  Destroy a non-created Alarm Test, ESMF_AlarmUTest.F90, line 314
+  PASS  Destroy a destroyed Alarm Test, ESMF_AlarmUTest.F90, line 305
+  PASS  Check if destroyed Alarm is sticky Test, ESMF_AlarmUTest.F90, line 323
+  PASS  Destroy a non-created Alarm Test, ESMF_AlarmUTest.F90, line 314
+  PASS  Check if non-created Alarm is sticky Test, ESMF_AlarmUTest.F90, line 332
+  PASS  Check if destroyed Alarm is sticky Test, ESMF_AlarmUTest.F90, line 323
+  PASS  Validate destroyed Alarm Test, ESMF_AlarmUTest.F90, line 341
+  PASS  Check if non-created Alarm is sticky Test, ESMF_AlarmUTest.F90, line 332
+  PASS  Validate non-created Alarm Test, ESMF_AlarmUTest.F90, line 350
+  PASS  Validate destroyed Alarm Test, ESMF_AlarmUTest.F90, line 341
+  PASS  Check if destroyed Alarm is enabled Test, ESMF_AlarmUTest.F90, line 359
+  PASS  Validate non-created Alarm Test, ESMF_AlarmUTest.F90, line 350
+  PASS  Check if non-created Alarm is enabled Test, ESMF_AlarmUTest.F90, line 368
+  PASS  Check if destroyed Alarm is enabled Test, ESMF_AlarmUTest.F90, line 359
+  PASS  Check if destroyed Alarm is not ringing Test, ESMF_AlarmUTest.F90, line 376
+  PASS  Check if non-created Alarm is enabled Test, ESMF_AlarmUTest.F90, line 368
+  PASS  Check if non-created Alarm is not ringing Test, ESMF_AlarmUTest.F90, line 384
+  PASS  Check if destroyed Alarm is not ringing Test, ESMF_AlarmUTest.F90, line 376
+  PASS  Get name of destroyed Alarm Test, ESMF_AlarmUTest.F90, line 393
+  PASS  Check if non-created Alarm is not ringing Test, ESMF_AlarmUTest.F90, line 384
+  PASS  Get name of destroyed Alarm Test, ESMF_AlarmUTest.F90, line 402
+  PASS  Get name of destroyed Alarm Test, ESMF_AlarmUTest.F90, line 393
+  PASS  Set name of destroyed Alarm Test, ESMF_AlarmUTest.F90, line 411
+  PASS  Get name of destroyed Alarm Test, ESMF_AlarmUTest.F90, line 402
+  PASS  Set name of non-created Alarm Test, ESMF_AlarmUTest.F90, line 420
+  PASS  Set name of destroyed Alarm Test, ESMF_AlarmUTest.F90, line 411
+  PASS  Turn on Ringing on destroyed Alarm, ESMF_AlarmUTest.F90, line 429
+  PASS  Set name of non-created Alarm Test, ESMF_AlarmUTest.F90, line 420
+  PASS  Turn on Ringing on non-created Alarm, ESMF_AlarmUTest.F90, line 438
+  PASS  Turn on Ringing on destroyed Alarm, ESMF_AlarmUTest.F90, line 429
+  PASS  Turn off Ringing on destroyed Alarm, ESMF_AlarmUTest.F90, line 447
+  PASS  Turn on Ringing on non-created Alarm, ESMF_AlarmUTest.F90, line 438
+  PASS  Turn off Ringing on non-created Alarm, ESMF_AlarmUTest.F90, line 456
+  PASS  Turn off Ringing on destroyed Alarm, ESMF_AlarmUTest.F90, line 447
+  PASS  Enable destroyed Alarm Test, ESMF_AlarmUTest.F90, line 464
+  PASS  Turn off Ringing on non-created Alarm, ESMF_AlarmUTest.F90, line 456
+  PASS  Enable non-create Alarm Test, ESMF_AlarmUTest.F90, line 473
+  PASS  Enable destroyed Alarm Test, ESMF_AlarmUTest.F90, line 464
+  PASS  Check if destroyed Alarm is enabled Test, ESMF_AlarmUTest.F90, line 482
+  PASS  Enable non-create Alarm Test, ESMF_AlarmUTest.F90, line 473
+  PASS  Check if non-created Alarm is enabled Test, ESMF_AlarmUTest.F90, line 491
+  PASS  Check if destroyed Alarm is enabled Test, ESMF_AlarmUTest.F90, line 482
+  PASS  Disable destroyed Alarm Test, ESMF_AlarmUTest.F90, line 500
+  PASS  Check if non-created Alarm is enabled Test, ESMF_AlarmUTest.F90, line 491
+  PASS  Disable non-created Alarm Test, ESMF_AlarmUTest.F90, line 509
+  PASS  Disable destroyed Alarm Test, ESMF_AlarmUTest.F90, line 500
+  PASS  Turn off Ringing on destroyed Alarm, ESMF_AlarmUTest.F90, line 518
+  PASS  Disable non-created Alarm Test, ESMF_AlarmUTest.F90, line 509
+  PASS  Turn off Ringing on non-created Alarm, ESMF_AlarmUTest.F90, line 527
+  PASS  Turn off Ringing on destroyed Alarm, ESMF_AlarmUTest.F90, line 518
+  PASS  Turn off Ringing on non-created Alarm, ESMF_AlarmUTest.F90, line 527
+  PASS  Create Alarm Test, ESMF_AlarmUTest.F90, line 537
+  PASS  Create Alarm Test, ESMF_AlarmUTest.F90, line 537
+  PASS  Create Alarm Test, ESMF_AlarmUTest.F90, line 546
+  PASS  Create Alarm Test, ESMF_AlarmUTest.F90, line 546
+  PASS  Create Alarm Copy Test, ESMF_AlarmUTest.F90, line 555
+  PASS  Clock Get Alarm List Test 1 - optional args missing, ESMF_AlarmUTest.F90, line 564
+  PASS  Create Alarm Copy Test, ESMF_AlarmUTest.F90, line 555
+  PASS  Clock Get Alarm List Test 2 - only alarmList specified, ESMF_AlarmUTest.F90, line 574
+  PASS  Clock Get Alarm List Test 1 - optional args missing, ESMF_AlarmUTest.F90, line 564
+  PASS  Clock Get Alarm List Test 3 - only alarmCount specified, ESMF_AlarmUTest.F90, line 584
+  PASS  Clock Get Alarm List Test 2 - only alarmList specified, ESMF_AlarmUTest.F90, line 574
+  PASS  Clock Get Alarm List Test 4 - single-element length alarmList specified, ESMF_AlarmUTest.F90, line 596
+  PASS  Clock Get Alarm List Test 3 - only alarmCount specified, ESMF_AlarmUTest.F90, line 584
+  PASS  Clock Get Alarm List Test 5, ESMF_AlarmUTest.F90, line 610
+  PASS  Clock Get Alarm List Test 4 - single-element length alarmList specified, ESMF_AlarmUTest.F90, line 596
+  PASS  Clock Get Alarm List Test 5, ESMF_AlarmUTest.F90, line 610
+  PASS  Alarm Assignment Test, ESMF_AlarmUTest.F90, line 627
+  PASS  Alarm Assignment Test, ESMF_AlarmUTest.F90, line 627
+  PASS  Alarms Equal Test, ESMF_AlarmUTest.F90, line 637
+  PASS  Alarms Equal Test, ESMF_AlarmUTest.F90, line 637
+  PASS  Alarms Not Equal Test, ESMF_AlarmUTest.F90, line 647
+  PASS  Alarms Equal Test, ESMF_AlarmUTest.F90, line 657
+  PASS  Alarms Not Equal Test, ESMF_AlarmUTest.F90, line 647
+  PASS  Alarms Equal Test, ESMF_AlarmUTest.F90, line 657
+  PASS  Alarms Not Equal Test, ESMF_AlarmUTest.F90, line 668
+  PASS  Alarms Not Equal Test, ESMF_AlarmUTest.F90, line 668
+  PASS  Deleted Alarm Not Equal Created Alarm Test 1, ESMF_AlarmUTest.F90, line 679
+  PASS  Deleted Alarm Not Equal Created Alarm Test 1, ESMF_AlarmUTest.F90, line 679
+  PASS  Deleted Alarm Not Equal Uncreated Alarm Test 1, ESMF_AlarmUTest.F90, line 689
+  PASS  Deleted Alarm Not Equal Uncreated Alarm Test 1, ESMF_AlarmUTest.F90, line 689
+  PASS  Uncreated Alarm Not Equal Created Alarm Test 1, ESMF_AlarmUTest.F90, line 699
+  PASS  Uncreated Alarm Not Equal Created Alarm Test 1, ESMF_AlarmUTest.F90, line 699
+  PASS  Deleted Alarm Equal Deleted Alarm Test 1, ESMF_AlarmUTest.F90, line 709
+  PASS  Deleted Alarm Equal Deleted Alarm Test 1, ESMF_AlarmUTest.F90, line 709
+  PASS  Uncreated Alarm Equal Uncreated Alarm Test 1, ESMF_AlarmUTest.F90, line 719
+  PASS  Uncreated Alarm Equal Uncreated Alarm Test 1, ESMF_AlarmUTest.F90, line 719
+  PASS  Deleted Alarm Not Equal Created Alarm Test 2, ESMF_AlarmUTest.F90, line 729
+  PASS  Deleted Alarm Not Equal Created Alarm Test 2, ESMF_AlarmUTest.F90, line 729
+  PASS  Deleted Alarm Not Equal Uncreated Alarm Test 2, ESMF_AlarmUTest.F90, line 739
+  PASS  Deleted Alarm Not Equal Uncreated Alarm Test 2, ESMF_AlarmUTest.F90, line 739
+  PASS  Uncreated Alarm Not Equal Created Alarm Test 2, ESMF_AlarmUTest.F90, line 749
+  PASS  Uncreated Alarm Not Equal Created Alarm Test 2, ESMF_AlarmUTest.F90, line 749
+  PASS  Deleted Alarm Equal Deleted Alarm Test 2, ESMF_AlarmUTest.F90, line 759
+  PASS  Deleted Alarm Equal Deleted Alarm Test 2, ESMF_AlarmUTest.F90, line 759
+  PASS  Destroy a destroyed Alarm Test, ESMF_AlarmUTest.F90, line 305
+  PASS  Destroy a destroyed Alarm Test, ESMF_AlarmUTest.F90, line 305
+  PASS  Uncreated Alarm Equal Uncreated Alarm Test 2, ESMF_AlarmUTest.F90, line 769
+  PASS  Uncreated Alarm Equal Uncreated Alarm Test 2, ESMF_AlarmUTest.F90, line 769
+  PASS  Destroy a non-created Alarm Test, ESMF_AlarmUTest.F90, line 314
+  PASS  Validate Alarm Test, ESMF_AlarmUTest.F90, line 778
+  PASS  Destroy a non-created Alarm Test, ESMF_AlarmUTest.F90, line 314
+  PASS  Validate Alarm Test, ESMF_AlarmUTest.F90, line 778
+  PASS  Check if destroyed Alarm is sticky Test, ESMF_AlarmUTest.F90, line 323
+  PASS  Check if Alarm is sticky Test, ESMF_AlarmUTest.F90, line 787
+  PASS  Check if Alarm is sticky Test, ESMF_AlarmUTest.F90, line 787
+  PASS  Check if destroyed Alarm is sticky Test, ESMF_AlarmUTest.F90, line 323
+  PASS  Check if Alarm is enabled Test, ESMF_AlarmUTest.F90, line 796
+  PASS  Check if non-created Alarm is sticky Test, ESMF_AlarmUTest.F90, line 332
+  PASS  Check if Alarm is enabled Test, ESMF_AlarmUTest.F90, line 796
+  PASS  Set Alarm not sticky Test, ESMF_AlarmUTest.F90, line 804
+  PASS  Check if non-created Alarm is sticky Test, ESMF_AlarmUTest.F90, line 332
+  PASS  Set Alarm not sticky Test, ESMF_AlarmUTest.F90, line 804
+  PASS  Validate destroyed Alarm Test, ESMF_AlarmUTest.F90, line 341
+  PASS  Get Alarm name Test, ESMF_AlarmUTest.F90, line 813
+  PASS  Get Alarm name Test, ESMF_AlarmUTest.F90, line 813
+  PASS  Validate non-created Alarm Test, ESMF_AlarmUTest.F90, line 350
+  PASS  Validate destroyed Alarm Test, ESMF_AlarmUTest.F90, line 341
+  PASS  Set Alarm name Test, ESMF_AlarmUTest.F90, line 823
+  PASS  Set Alarm name Test, ESMF_AlarmUTest.F90, line 823
+  PASS  Check if destroyed Alarm is enabled Test, ESMF_AlarmUTest.F90, line 359
+  PASS  Validate non-created Alarm Test, ESMF_AlarmUTest.F90, line 350
+  PASS  Get Alarm name Test, ESMF_AlarmUTest.F90, line 832
+  PASS  Get Alarm name Test, ESMF_AlarmUTest.F90, line 832
+  PASS  Check if Alarm is not sticky Test, ESMF_AlarmUTest.F90, line 842
+  PASS  Set Alarm sticky Test, ESMF_AlarmUTest.F90, line 851
+  PASS  Check if non-created Alarm is enabled Test, ESMF_AlarmUTest.F90, line 368
+  PASS  Check if Alarm is not sticky Test, ESMF_AlarmUTest.F90, line 842
+  PASS  Set Alarm sticky Test, ESMF_AlarmUTest.F90, line 851
+  PASS  Check if destroyed Alarm is enabled Test, ESMF_AlarmUTest.F90, line 359
+  PASS  Check if Alarm is sticky Test, ESMF_AlarmUTest.F90, line 860
+  PASS  Check if destroyed Alarm is not ringing Test, ESMF_AlarmUTest.F90, line 376
+  PASS  Check if Alarm is sticky Test, ESMF_AlarmUTest.F90, line 860
+  PASS  Check if non-created Alarm is enabled Test, ESMF_AlarmUTest.F90, line 368
+  PASS  Check if Alarm is not ringing Test, ESMF_AlarmUTest.F90, line 869
+  PASS  Check if Alarm is not ringing Test, ESMF_AlarmUTest.F90, line 869
+  PASS  Turn on Ringing Alarm, ESMF_AlarmUTest.F90, line 878
+  PASS  Check if non-created Alarm is not ringing Test, ESMF_AlarmUTest.F90, line 384
+  PASS  Turn on Ringing Alarm, ESMF_AlarmUTest.F90, line 878
+  PASS  Check if destroyed Alarm is not ringing Test, ESMF_AlarmUTest.F90, line 376
+  PASS  Check if Alarm is ringing Test, ESMF_AlarmUTest.F90, line 887
+  PASS  Check if Alarm is ringing Test, ESMF_AlarmUTest.F90, line 887
+  PASS  Get name of destroyed Alarm Test, ESMF_AlarmUTest.F90, line 393
+  PASS  Turn off Ringing Alarm, ESMF_AlarmUTest.F90, line 896
+  PASS  Get name of destroyed Alarm Test, ESMF_AlarmUTest.F90, line 402
+  PASS  Turn off Ringing Alarm, ESMF_AlarmUTest.F90, line 896
+  PASS  Check if Alarm is not ringing Test, ESMF_AlarmUTest.F90, line 905
+  PASS  Check if non-created Alarm is not ringing Test, ESMF_AlarmUTest.F90, line 384
+  PASS  Check if Alarm is not ringing Test, ESMF_AlarmUTest.F90, line 905
+  PASS  Enable Alarm Test, ESMF_AlarmUTest.F90, line 914
+  PASS  Set name of destroyed Alarm Test, ESMF_AlarmUTest.F90, line 411
+  PASS  Enable Alarm Test, ESMF_AlarmUTest.F90, line 914
+  PASS  Check if Alarm is enabled Test, ESMF_AlarmUTest.F90, line 923
+  PASS  Check if Alarm is enabled Test, ESMF_AlarmUTest.F90, line 923
+  PASS  Get name of destroyed Alarm Test, ESMF_AlarmUTest.F90, line 393
+Alarm ----------------------------------
+name = ALARM1
+ringInterval = 
+TimeInterval ---------------------------
+BaseTime -------------------------------
+s = -3600
+Alarm ----------------------------------
+name = ALARM1
+ringInterval = 
+TimeInterval ---------------------------
+BaseTime -------------------------------
+s = -3600
+  PASS  Set name of non-created Alarm Test, ESMF_AlarmUTest.F90, line 420
+  PASS  Get name of destroyed Alarm Test, ESMF_AlarmUTest.F90, line 402
+sN = 0
+sD = 1
+end BaseTime ---------------------------
+
+yy    = 0
+sN = 0
+sD = 1
+end BaseTime ---------------------------
+
+  PASS  Turn on Ringing on destroyed Alarm, ESMF_AlarmUTest.F90, line 429
+  PASS  Set name of destroyed Alarm Test, ESMF_AlarmUTest.F90, line 411
+mm    = 0
+d     = 0
+d_r8  = -0
+Calendar = 
+Calendar -------------------------------
+name = InternalGregorian006
+yy    = 0
+mm    = 0
+d     = 0
+d_r8  = -0
+Calendar = 
+Calendar -------------------------------
+name = InternalGregorian006
+calkindflag = Gregorian
+daysPerMonth = 31 28 31 30 31 30 31 31 30 31 30 31 
+monthsPerYear = 12
+  PASS  Turn on Ringing on non-created Alarm, ESMF_AlarmUTest.F90, line 438
+calkindflag = Gregorian
+daysPerMonth = 31 28 31 30 31 30 31 31 30 31 30 31 
+monthsPerYear = 12
+  PASS  Turn off Ringing on destroyed Alarm, ESMF_AlarmUTest.F90, line 447
+secondsPerDay = 86400
+secondsPerYear = 31536000
+daysPerYear = 365
+daysPerYeardN = 0
+daysPerYeardD = 1
+end Calendar ---------------------------
+
+end TimeInterval -----------------------
+
+ringTime = 
+Time -----------------------------------
+BaseTime -------------------------------
+s = 211930387200
+sN = 0
+sD = 1
+end BaseTime ---------------------------
+
+  PASS  Set name of non-created Alarm Test, ESMF_AlarmUTest.F90, line 420
+secondsPerDay = 86400
+secondsPerYear = 31536000
+daysPerYear = 365
+daysPerYeardN = 0
+daysPerYeardD = 1
+end Calendar ---------------------------
+
+end TimeInterval -----------------------
+
+ringTime = 
+Time -----------------------------------
+BaseTime -------------------------------
+s = 211930387200
+sN = 0
+sD = 1
+end BaseTime ---------------------------
+
+  PASS  Turn on Ringing on destroyed Alarm, ESMF_AlarmUTest.F90, line 429
+  PASS  Turn off Ringing on non-created Alarm, ESMF_AlarmUTest.F90, line 456
+Calendar -------------------------------
+name = Gregorian
+calkindflag = Gregorian
+daysPerMonth = 31 28 31 30 31 30 31 31 30 31 30 31 
+monthsPerYear = 12
+Calendar -------------------------------
+name = Gregorian
+calkindflag = Gregorian
+daysPerMonth = 31 28 31 30 31 30 31 31 30 31 30 31 
+monthsPerYear = 12
+secondsPerDay = 86400
+secondsPerYear = 31536000
+daysPerYear = 365
+daysPerYeardN = 0
+daysPerYeardD = 1
+secondsPerDay = 86400
+secondsPerYear = 31536000
+daysPerYear = 365
+daysPerYeardN = 0
+end Calendar ---------------------------
+
+timeZone = 0
+end Time -------------------------------
+
+firstRingTime = 
+Time -----------------------------------
+BaseTime -------------------------------
+s = 0
+sN = 0
+sD = 1
+end BaseTime ---------------------------
+
+timeZone = 0
+end Time -------------------------------
+  PASS  Enable destroyed Alarm Test, ESMF_AlarmUTest.F90, line 464
+daysPerYeardD = 1
+end Calendar ---------------------------
+
+timeZone = 0
+end Time -------------------------------
+
+firstRingTime = 
+Time -----------------------------------
+BaseTime -------------------------------
+s = 0
+sN = 0
+sD = 1
+end BaseTime ---------------------------
+
+timeZone = 0
+end Time -------------------------------
+  PASS  Turn on Ringing on non-created Alarm, ESMF_AlarmUTest.F90, line 438
+
+prevRingTime = 
+Time -----------------------------------
+BaseTime -------------------------------
+s = 0
+sN = 0
+sD = 1
+
+prevRingTime = 
+Time -----------------------------------
+  PASS  Enable non-create Alarm Test, ESMF_AlarmUTest.F90, line 473
+end BaseTime ---------------------------
+
+timeZone = 0
+end Time -------------------------------
+
+ringBegin = 
+Time -----------------------------------
+BaseTime -------------------------------
+s = 0
+sN = 0
+sD = 1
+end BaseTime ---------------------------
+
+timeZone = 0
+end Time -------------------------------
+
+ringEnd = 
+Time -----------------------------------
+BaseTime -------------------------------
+s = 211914387927
+sN = 0
+sD = 1
+  PASS  Turn off Ringing on destroyed Alarm, ESMF_AlarmUTest.F90, line 447
+BaseTime -------------------------------
+s = 0
+sN = 0
+sD = 1
+end BaseTime ---------------------------
+
+timeZone = 0
+end Time -------------------------------
+
+ringBegin = 
+Time -----------------------------------
+BaseTime -------------------------------
+s = 0
+sN = 0
+sD = 1
+end BaseTime ---------------------------
+
+timeZone = 0
+end Time -------------------------------
+  PASS  Check if destroyed Alarm is enabled Test, ESMF_AlarmUTest.F90, line 482
+end BaseTime ---------------------------
+
+Calendar -------------------------------
+name = Gregorian
+calkindflag = Gregorian
+
+ringEnd = 
+Time -----------------------------------
+BaseTime -------------------------------
+s = 211914387927
+sN = 0
+sD = 1
+  PASS  Turn off Ringing on non-created Alarm, ESMF_AlarmUTest.F90, line 456
+daysPerMonth = 31 28 31 30 31 30 31 31 30 31 30 31 
+monthsPerYear = 12
+secondsPerDay = 86400
+secondsPerYear = 31536000
+daysPerYear = 365
+daysPerYeardN = 0
+daysPerYeardD = 1
+end Calendar ---------------------------
+
+timeZone = 0
+end Time -------------------------------
+
+ringTimeStepCount = 1
+timeStepRingingCount = 0
+ringing = false
+ringingOnPrevTimeStep = false
+enabled = true
+  PASS  Check if non-created Alarm is enabled Test, ESMF_AlarmUTest.F90, line 491
+end BaseTime ---------------------------
+
+Calendar -------------------------------
+name = Gregorian
+calkindflag = Gregorian
+daysPerMonth = 31 28 31 30 31 30 31 31 30 31 30 31 
+monthsPerYear = 12
+secondsPerDay = 86400
+secondsPerYear = 31536000
+daysPerYear = 365
+daysPerYeardN = 0
+daysPerYeardD = 1
+  PASS  Disable destroyed Alarm Test, ESMF_AlarmUTest.F90, line 500
+  PASS  Enable destroyed Alarm Test, ESMF_AlarmUTest.F90, line 464
+sticky = true
+end Alarm ------------------------------
+
+  PASS  Alarm Print Test, ESMF_AlarmUTest.F90, line 932
+end Calendar ---------------------------
+
+timeZone = 0
+end Time -------------------------------
+
+ringTimeStepCount = 1
+timeStepRingingCount = 0
+ringing = false
+ringingOnPrevTimeStep = false
+enabled = true
+sticky = true
+end Alarm ------------------------------
+
+  PASS  Disable Alarm Test, ESMF_AlarmUTest.F90, line 941
+  PASS  Alarm Print Test, ESMF_AlarmUTest.F90, line 932
+  PASS  Disable non-created Alarm Test, ESMF_AlarmUTest.F90, line 509
+  PASS  Check if Alarm is disabled Test, ESMF_AlarmUTest.F90, line 950
+  PASS  Disable Alarm Test, ESMF_AlarmUTest.F90, line 941
+  PASS  Enable non-create Alarm Test, ESMF_AlarmUTest.F90, line 473
+  PASS  Check if Alarm is disabled Test, ESMF_AlarmUTest.F90, line 950
+  PASS  Turn off Ringing on destroyed Alarm, ESMF_AlarmUTest.F90, line 518
+  PASS  Destroy Alarm Test, ESMF_AlarmUTest.F90, line 959
+  PASS  Destroy Alarm Test, ESMF_AlarmUTest.F90, line 959
+  PASS  Check if destroyed Alarm is enabled Test, ESMF_AlarmUTest.F90, line 482
+  PASS  Destroy Clock Test, ESMF_AlarmUTest.F90, line 968
+  PASS  Turn off Ringing on non-created Alarm, ESMF_AlarmUTest.F90, line 527
+  PASS  Destroy Clock Test, ESMF_AlarmUTest.F90, line 968
+  PASS  Set Time Interval Initialization Test, ESMF_AlarmUTest.F90, line 978
+  PASS  Set Time Interval Initialization Test, ESMF_AlarmUTest.F90, line 978
+  PASS  Check if non-created Alarm is enabled Test, ESMF_AlarmUTest.F90, line 491
+  PASS  Set Start Time Initialization Test, ESMF_AlarmUTest.F90, line 990
+  PASS  Set Start Time Initialization Test, ESMF_AlarmUTest.F90, line 990
+  PASS  Set Stop Time Initialization Test, ESMF_AlarmUTest.F90, line 1002
+  PASS  Disable destroyed Alarm Test, ESMF_AlarmUTest.F90, line 500
+  PASS  Create Alarm Test, ESMF_AlarmUTest.F90, line 537
+  PASS  Set Stop Time Initialization Test, ESMF_AlarmUTest.F90, line 1002
+  PASS  Set Alarm Time Initialization Test, ESMF_AlarmUTest.F90, line 1013
+  PASS  Disable non-created Alarm Test, ESMF_AlarmUTest.F90, line 509
+  PASS  Set Alarm Time Initialization Test, ESMF_AlarmUTest.F90, line 1013
+  PASS  Clock Initialization Test, ESMF_AlarmUTest.F90, line 1024
+  PASS  Clock Initialization Test, ESMF_AlarmUTest.F90, line 1024
+  PASS  Create Alarm Test, ESMF_AlarmUTest.F90, line 546
+  PASS  Turn off Ringing on destroyed Alarm, ESMF_AlarmUTest.F90, line 518
+  PASS  Create Alarm Copy Test, ESMF_AlarmUTest.F90, line 555
+  PASS  Sticky Alarm Time Initialization Test, ESMF_AlarmUTest.F90, line 1033
+  PASS  Turn off Ringing on non-created Alarm, ESMF_AlarmUTest.F90, line 527
+  PASS  Sticky Alarm Time Initialization Test, ESMF_AlarmUTest.F90, line 1033
+  PASS  Clock Get Alarm List Test 1 - optional args missing, ESMF_AlarmUTest.F90, line 564
+  PASS  Get Alarm Test, ESMF_AlarmUTest.F90, line 1042
+  PASS  Get Alarm Test, ESMF_AlarmUTest.F90, line 1042
+  PASS  Clock Get Alarm List Test 2 - only alarmList specified, ESMF_AlarmUTest.F90, line 574
+ Test 1: c.t0 = a.t0, c.dt = a.dt = 10 min
+ Test 1: c.t0 = a.t0, c.dt = a.dt = 10 min
+  PASS  Clock Get Alarm List Test 3 - only alarmCount specified, ESMF_AlarmUTest.F90, line 584
+  PASS  Create Alarm Test, ESMF_AlarmUTest.F90, line 537
+  PASS  Clock Get Alarm List Test 4 - single-element length alarmList specified, ESMF_AlarmUTest.F90, line 596
+  PASS  Clock Get Alarm List Test 5, ESMF_AlarmUTest.F90, line 610
+  PASS  Create Alarm Test, ESMF_AlarmUTest.F90, line 546
+  PASS  Alarm Assignment Test, ESMF_AlarmUTest.F90, line 627
+ Test 1: ringing =  T 00:00:00
+ Test 1: ringing =  T °æJü  ðçJü  °æJü  X¢É.F+   Ýf     Óf    2^0F+  Y$^0F+  
+  PASS  Alarms Equal Test, ESMF_AlarmUTest.F90, line 637
+   Test 1: ringing =  T °æJü  ðçJü  °æJü  X¢É.F+   Ýf     Óf    2^0F+  Y$^0F+  
+   Test 1: ringing =  T 00:10:00
+  PASS  Alarms Not Equal Test, ESMF_AlarmUTest.F90, line 647
+  PASS  Create Alarm Copy Test, ESMF_AlarmUTest.F90, line 555
+   Test 1: ringing =  T 00:20:00
+   Test 1: ringing =  T 00:30:00
+   Test 1: ringing =  T 00:40:00
+   Test 1: ringing =  T 00:50:00
+   Test 1: ringing =  T °æJü  ðçJü  °æJü  X¢É.F+   Ýf     Óf    2^0F+  Y$^0F+  
+   Test 1: ringing =  T °æJü  ðçJü  °æJü  X¢É.F+   Ýf     Óf    2^0F+  Y$^0F+  
+   Test 1: ringing =  T °æJü  ðçJü  °æJü  X¢É.F+   Ýf     Óf    2^0F+  Y$^0F+  
+   Test 1: ringing =  T °æJü  ðçJü  °æJü  X¢É.F+   Ýf     Óf    2^0F+  Y$^0F+  
+   Test 1: ringing =  T °æJü  ðçJü  °æJü  X¢É.F+   Ýf     Óf    2^0F+  Y$^0F+  
+  PASS  Alarms Equal Test, ESMF_AlarmUTest.F90, line 657
+   Test 1: ringing =  T 01:00:00
+  PASS  Alarms Not Equal Test, ESMF_AlarmUTest.F90, line 668
+  PASS  Forward Alarm Test Case 1, ESMF_AlarmUTest.F90, line 1054
+  PASS  Clock Get Alarm List Test 1 - optional args missing, ESMF_AlarmUTest.F90, line 564
+  PASS  Forward Alarm Test Case 1, ESMF_AlarmUTest.F90, line 1054
+  PASS  Deleted Alarm Not Equal Created Alarm Test 1, ESMF_AlarmUTest.F90, line 679
+  PASS  Clock Get Alarm List Test 2 - only alarmList specified, ESMF_AlarmUTest.F90, line 574
+ Test 2: c.t0 = a.t0, c.dt = 10 min a.dt = 20 min
+  PASS  Clock Get Alarm List Test 3 - only alarmCount specified, ESMF_AlarmUTest.F90, line 584
+ Test 2: c.t0 = a.t0, c.dt = 10 min a.dt = 20 min
+  PASS  Deleted Alarm Not Equal Uncreated Alarm Test 1, ESMF_AlarmUTest.F90, line 689
+ Test 2: ringing =  T 00:00:00
+   Test 2: ringing =  F 00:10:00
+  PASS  Clock Get Alarm List Test 4 - single-element length alarmList specified, ESMF_AlarmUTest.F90, line 596
+ Test 2: ringing =  T °æJü  ðçJü  °æJü  X¢É.F+   Ýf     Óf    2^0F+  Y$^0F+  
+   Test 2: ringing =  F °æJü  ðçJü  °æJü  X¢É.F+   Ýf     Óf    2^0F+  Y$^0F+  
+  PASS  Uncreated Alarm Not Equal Created Alarm Test 1, ESMF_AlarmUTest.F90, line 699
+  PASS  Clock Get Alarm List Test 5, ESMF_AlarmUTest.F90, line 610
+   Test 2: ringing =  T °æJü  ðçJü  °æJü  X¢É.F+   Ýf     Óf    2^0F+  Y$^0F+  
+   Test 2: ringing =  F °æJü  ðçJü  °æJü  X¢É.F+   Ýf     Óf    2^0F+  Y$^0F+  
+   Test 2: ringing =  T °æJü  ðçJü  °æJü  X¢É.F+   Ýf     Óf    2^0F+  Y$^0F+  
+   Test 2: ringing =  F °æJü  ðçJü  °æJü  X¢É.F+   Ýf     Óf    2^0F+  Y$^0F+  
+   Test 2: ringing =  T 00:20:00
+   Test 2: ringing =  F 00:30:00
+   Test 2: ringing =  T 00:40:00
+   Test 2: ringing =  T °æJü  ðçJü  °æJü  X¢É.F+   Ýf     Óf    2^0F+  Y$^0F+  
+   Test 2: ringing =  F 00:50:00
+  PASS  Alarm Assignment Test, ESMF_AlarmUTest.F90, line 627
+  PASS  Forward Alarm Test Case 2, ESMF_AlarmUTest.F90, line 1063
+  PASS  Deleted Alarm Equal Deleted Alarm Test 1, ESMF_AlarmUTest.F90, line 709
+   Test 2: ringing =  T 01:00:00
+  PASS  Forward Alarm Test Case 2, ESMF_AlarmUTest.F90, line 1063
+  PASS  Alarms Equal Test, ESMF_AlarmUTest.F90, line 637
+  PASS  Alarms Not Equal Test, ESMF_AlarmUTest.F90, line 647
+  PASS  Uncreated Alarm Equal Uncreated Alarm Test 1, ESMF_AlarmUTest.F90, line 719
+  PASS  Alarms Equal Test, ESMF_AlarmUTest.F90, line 657
+  PASS  Deleted Alarm Not Equal Created Alarm Test 2, ESMF_AlarmUTest.F90, line 729
+  PASS  Alarms Not Equal Test, ESMF_AlarmUTest.F90, line 668
+  PASS  Deleted Alarm Not Equal Uncreated Alarm Test 2, ESMF_AlarmUTest.F90, line 739
+  PASS  Deleted Alarm Not Equal Created Alarm Test 1, ESMF_AlarmUTest.F90, line 679
+  PASS  Forward Alarm Test Case 3, ESMF_AlarmUTest.F90, line 1072
+  PASS  Forward Alarm Test Case 3, ESMF_AlarmUTest.F90, line 1072
+  PASS  Uncreated Alarm Not Equal Created Alarm Test 2, ESMF_AlarmUTest.F90, line 749
+ Test 4: c.t0 = a.t0, c.dt = 10 min a.dt = 12 min
+ Test 4: c.t0 = a.t0, c.dt = 10 min a.dt = 12 min
+  PASS  Deleted Alarm Not Equal Uncreated Alarm Test 1, ESMF_AlarmUTest.F90, line 689
+  PASS  Deleted Alarm Equal Deleted Alarm Test 2, ESMF_AlarmUTest.F90, line 759
+Alarm Debug Printout: test4
+ ringing =  T
+ enabled =  T
+ sticky =  F
+      LOC(sticky) =     7FFC4A1EE918
+ Test 4: ringing =  T Ìug     `ðJü  `ïJü  ŒíJü  €      8¾†0F+  h       ðêJü   sticky =  F
+ ringerIsOn =  T
+Time Debug Printout:  ringTime =    1   1   1   0   0   0
+  PASS  Uncreated Alarm Not Equal Created Alarm Test 1, ESMF_AlarmUTest.F90, line 699
+   Test 4: ringing =  F Ìug     `ðJü  `ïJü  ŒíJü  €      8¾†0F+  h       ðêJü  
+   Test 4: ringing =  F Ìug     `ðJü  `ïJü  ŒíJü  €      8¾†0F+  h       ðêJü  
+  PASS  Uncreated Alarm Equal Uncreated Alarm Test 2, ESMF_AlarmUTest.F90, line 769
+TimeInterval Debug Printout: ringInterval   0   0         0   0  12   0
+ 
+      LOC(sticky) =     7FFCAC23E5D8
+ Test 4: ringing =  T 00:00:00 sticky =  F
+   Test 4: ringing =  F Ìug     `ðJü  `ïJü  ŒíJü  €      8¾†0F+  h       ðêJü  
+   Test 4: ringing =  F Ìug     `ðJü  `ïJü  ŒíJü  €      8¾†0F+  h       ðêJü  
+   Test 4: ringing =  F Ìug     `ðJü  `ïJü  ŒíJü  €      8¾†0F+  h       ðêJü  
+   Test 4: ringing =  T Ìug     `ðJü  `ïJü  ŒíJü  €      8¾†0F+  h       ðêJü  
+  PASS  Validate Alarm Test, ESMF_AlarmUTest.F90, line 778
+  PASS  Forward Alarm Test Case 4, ESMF_AlarmUTest.F90, line 1081
+   Test 4: ringing =  F 00:10:00
+   Test 4: ringing =  F 00:20:00
+   Test 4: ringing =  F 00:30:00
+  PASS  Deleted Alarm Equal Deleted Alarm Test 1, ESMF_AlarmUTest.F90, line 709
+  PASS  Check if Alarm is sticky Test, ESMF_AlarmUTest.F90, line 787
+   Test 4: ringing =  F 00:40:00
+ Test 5: c.t0 = 0:0:0 a.t0=0:4:0, c.dt = a.dt = 10 min sticky (an alarm wont ring)
+  PASS  Check if Alarm is enabled Test, ESMF_AlarmUTest.F90, line 796
+   Test 4: ringing =  F 00:50:00
+   Test 4: ringing =  T 01:00:00
+  PASS  Forward Alarm Test Case 4, ESMF_AlarmUTest.F90, line 1081
+  PASS  Set Alarm not sticky Test, ESMF_AlarmUTest.F90, line 804
+  PASS  Uncreated Alarm Equal Uncreated Alarm Test 1, ESMF_AlarmUTest.F90, line 719
+  PASS  Get Alarm name Test, ESMF_AlarmUTest.F90, line 813
+ Test 5: c.t0 = 0:0:0 a.t0=0:4:0, c.dt = a.dt = 10 min sticky (an alarm wont ring)
+  PASS  Forward Alarm Test Case 5, ESMF_AlarmUTest.F90, line 1090
+  PASS  Deleted Alarm Not Equal Created Alarm Test 2, ESMF_AlarmUTest.F90, line 729
+  PASS  Set Alarm name Test, ESMF_AlarmUTest.F90, line 823
+ Test 6: c.t0 = a.t0, c.dt = 10 min a.dt = unspecified (one shot)
+  PASS  Get Alarm name Test, ESMF_AlarmUTest.F90, line 832
+  PASS  Forward Alarm Test Case 5, ESMF_AlarmUTest.F90, line 1090
+  PASS  Deleted Alarm Not Equal Uncreated Alarm Test 2, ESMF_AlarmUTest.F90, line 739
+  PASS  Check if Alarm is not sticky Test, ESMF_AlarmUTest.F90, line 842
+ Test 6: c.t0 = a.t0, c.dt = 10 min a.dt = unspecified (one shot)
+  PASS  Set Alarm sticky Test, ESMF_AlarmUTest.F90, line 851
+ Test 6: ringing =  F `ïJü  „íJü  €      8¾†0F+  h       ðêJü          '3È     sticky =  F
+   Test 6: ringing =  F `ïJü  „íJü  €      8¾†0F+  h       ðêJü          '3È    
+  PASS  Check if Alarm is sticky Test, ESMF_AlarmUTest.F90, line 860
+  PASS  Uncreated Alarm Not Equal Created Alarm Test 2, ESMF_AlarmUTest.F90, line 749
+   Test 6: ringing =  F `ïJü  „íJü  €      8¾†0F+  h       ðêJü          '3È    
+   Test 6: ringing =  T `ïJü  „íJü  €      8¾†0F+  h       ðêJü          '3È    
+   Test 6: ringing =  F `ïJü  „íJü  €      8¾†0F+  h       ðêJü          '3È    
+   Test 6: ringing =  F `ïJü  „íJü  €      8¾†0F+  h       ðêJü          '3È    
+   Test 6: ringing =  F `ïJü  „íJü  €      8¾†0F+  h       ðêJü          '3È    
+  PASS  Check if Alarm is not ringing Test, ESMF_AlarmUTest.F90, line 869
+Alarm Debug Printout: test6
+ ringing =  F
+ enabled =  T
+ sticky =  F
+ ringerIsOn =  T
+  PASS  Forward Alarm Test Case 6, ESMF_AlarmUTest.F90, line 1099
+  PASS  Turn on Ringing Alarm, ESMF_AlarmUTest.F90, line 878
+ Test 7: c.t0, a.t0 unspecified default to c.t0, c.dt = 10 min a.dt = 10 min
+Time Debug Printout:  ringTime =    1   1   1   0  30   0
+TimeInterval Debug Printout: ringInterval   0   0         0   0 -10   0
+ 
+ Test 6: ringing =  F 00:00:00 sticky =  F
+   Test 6: ringing =  F 00:10:00
+  PASS  Deleted Alarm Equal Deleted Alarm Test 2, ESMF_AlarmUTest.F90, line 759
+  PASS  Check if Alarm is ringing Test, ESMF_AlarmUTest.F90, line 887
+  PASS  Turn off Ringing Alarm, ESMF_AlarmUTest.F90, line 896
+   Test 6: ringing =  F 00:20:00
+  PASS  Check if Alarm is not ringing Test, ESMF_AlarmUTest.F90, line 905
+  PASS  Enable Alarm Test, ESMF_AlarmUTest.F90, line 914
+   Test 6: ringing =  T 00:30:00
+   Test 6: ringing =  F 00:40:00
+   Test 6: ringing =  F 00:50:00
+  PASS  Uncreated Alarm Equal Uncreated Alarm Test 2, ESMF_AlarmUTest.F90, line 769
+   Test 6: ringing =  F 01:00:00
+  PASS  Forward Alarm Test Case 6, ESMF_AlarmUTest.F90, line 1099
+  PASS  Validate Alarm Test, ESMF_AlarmUTest.F90, line 778
+ Test 7: ringing =  T `ïJü  €íJü  €      8¾†0F+  h       ðêJü          '3È     sticky =  F
+   Test 7: ringing =  T `ïJü  €íJü  €      8¾†0F+  h       ðêJü          '3È    
+   Test 7: ringing =  T `ïJü  €íJü  €      8¾†0F+  h       ðêJü          '3È    
+  PASS  Check if Alarm is enabled Test, ESMF_AlarmUTest.F90, line 923
+ Test 7: c.t0, a.t0 unspecified default to c.t0, c.dt = 10 min a.dt = 10 min
+   Test 7: ringing =  T `ïJü  €íJü  €      8¾†0F+  h       ðêJü          '3È    
+   Test 7: ringing =  T `ïJü  €íJü  €      8¾†0F+  h       ðêJü          '3È    
+Alarm ----------------------------------
+name = ALARM1
+ringInterval = 
+   Test 7: ringing =  T `ïJü  €íJü  €      8¾†0F+  h       ðêJü          '3È    
+   Test 7: ringing =  T `ïJü  €íJü  €      8¾†0F+  h       ðêJü          '3È    
+  PASS  Forward Alarm Test Case 7, ESMF_AlarmUTest.F90, line 1108
+  PASS  Check if Alarm is sticky Test, ESMF_AlarmUTest.F90, line 787
+TimeInterval ---------------------------
+BaseTime -------------------------------
+s = -3600
+sN = 0
+sD = 1
+end BaseTime ---------------------------
+
+yy    = 0
+mm    = 0
+d     = 0
+  PASS  Check if Alarm is enabled Test, ESMF_AlarmUTest.F90, line 796
+d_r8  = -0
+Calendar = 
+  PASS  Set Alarm not sticky Test, ESMF_AlarmUTest.F90, line 804
+ Test 1: c.t0 = a.t0, c.dt = a.dt = 10 min
+Alarm Debug Printout: test7
+ ringing =  T
+ enabled =  T
+ sticky =  F
+ ringerIsOn =  T
+Time Debug Printout:  ringTime =    1   1   1   0   0   0
+Calendar -------------------------------
+name = InternalGregorian006
+calkindflag = Gregorian
+daysPerMonth = 31 28 31 30 31 30 31 31 30 31 30 31 
+monthsPerYear = 12
+secondsPerDay = 86400
+secondsPerYear = 31536000
+daysPerYear = 365
+daysPerYeardN = 0
+daysPerYeardD = 1
+end Calendar ---------------------------
+TimeInterval Debug Printout: ringInterval   0   0         0   0  10   0
+ 
+  PASS  Get Alarm name Test, ESMF_AlarmUTest.F90, line 813
+
+end TimeInterval -----------------------
+
+ringTime = 
+Time -----------------------------------
+BaseTime -------------------------------
+s = 211930387200
+sN = 0
+ Test 7: ringing =  T 00:00:00 sticky =  F
+   Test 7: ringing =  T 00:10:00
+   Test 7: ringing =  T 00:20:00
+sD = 1
+end BaseTime ---------------------------
+
+Calendar -------------------------------
+name = Gregorian
+calkindflag = Gregorian
+   Test 7: ringing =  T 00:30:00
+daysPerMonth = 31 28 31 30 31 30 31 31 30 31 30 31 
+monthsPerYear = 12
+secondsPerDay = 86400
+secondsPerYear = 31536000
+  PASS  Set Alarm name Test, ESMF_AlarmUTest.F90, line 823
+   Test 7: ringing =  T 00:40:00
+   Test 7: ringing =  T 00:50:00
+ Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+daysPerYear = 365
+daysPerYeardN = 0
+daysPerYeardD = 1
+end Calendar ---------------------------
+
+timeZone = 0
+end Time -------------------------------
+
+firstRingTime = 
+Time -----------------------------------
+BaseTime -------------------------------
+   Test 1: ringing =  T                                                         
+v”    
+   Test 7: ringing =  T 01:00:00
+  PASS  Forward Alarm Test Case 7, ESMF_AlarmUTest.F90, line 1108
+s = 0
+sN = 0
+sD = 1
+end BaseTime ---------------------------
+
+timeZone = 0
+ Test 1: c.t0 = a.t0, c.dt = a.dt = 10 min
+  PASS  Get Alarm name Test, ESMF_AlarmUTest.F90, line 832
+  PASS  Check if Alarm is not sticky Test, ESMF_AlarmUTest.F90, line 842
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+  PASS  Reverse Alarm Test Case 1, ESMF_AlarmUTest.F90, line 1118
+end Time -------------------------------
+
+prevRingTime = 
+Time -----------------------------------
+BaseTime -------------------------------
+s = 0
+sN = 0
+sD = 1
+end BaseTime ---------------------------
+
+timeZone = 0
+end Time -------------------------------
+
+ringBegin = 
+Time -----------------------------------
+BaseTime -------------------------------
+s = 0
+sN = 0
+sD = 1
+end BaseTime ---------------------------
+
+ Test 2: c.t0 = a.t0, c.dt = 10 min a.dt = 20 min
+  PASS  Set Alarm sticky Test, ESMF_AlarmUTest.F90, line 851
+  PASS  Check if Alarm is sticky Test, ESMF_AlarmUTest.F90, line 860
+timeZone = 0
+end Time -------------------------------
+
+ringEnd = 
+Time -----------------------------------
+BaseTime -------------------------------
+s = 211914387927
+sN = 0
+sD = 1
+end BaseTime ---------------------------
+
+Calendar -------------------------------
+name = Gregorian
+calkindflag = Gregorian
+daysPerMonth = 31 28 31 30 31 30 31 31 30 31 30 31 
+monthsPerYear = 12
+secondsPerDay = 86400
+  PASS  Check if Alarm is not ringing Test, ESMF_AlarmUTest.F90, line 869
+ Test 1: ringing =  T 01:00:00
+secondsPerYear = 31536000
+daysPerYear = 365
+daysPerYeardN = 0
+daysPerYeardD = 1
+end Calendar ---------------------------
+
+timeZone = 0
+end Time -------------------------------
+
+ringTimeStepCount = 1
+timeStepRingingCount = 0
+ringing = false
+ringingOnPrevTimeStep = false
+enabled = true
+sticky = true
+end Alarm ------------------------------
+
+   Test 1: ringing =  T 00:50:00
+   Test 1: ringing =  T 00:40:00
+  PASS  Turn on Ringing Alarm, ESMF_AlarmUTest.F90, line 878
+ Test 2: ringing =  T                                                         
+v”    
+  PASS  Alarm Print Test, ESMF_AlarmUTest.F90, line 932
+   Test 2: ringing =  F                                                         
+v”    
+   Test 2: ringing =  T                                                         
+v”    
+   Test 2: ringing =  F                                                         
+v”    
+   Test 1: ringing =  T 00:30:00
+   Test 1: ringing =  T 00:20:00
+   Test 1: ringing =  T 00:10:00
+  PASS  Check if Alarm is ringing Test, ESMF_AlarmUTest.F90, line 887
+  PASS  Disable Alarm Test, ESMF_AlarmUTest.F90, line 941
+  PASS  Turn off Ringing Alarm, ESMF_AlarmUTest.F90, line 896
+  PASS  Check if Alarm is not ringing Test, ESMF_AlarmUTest.F90, line 905
+   Test 2: ringing =  T                                                         
+v”    
+   Test 2: ringing =  F                                                         
+v”    
+   Test 2: ringing =  T                                                         
+v”    
+  PASS  Reverse Alarm Test Case 2, ESMF_AlarmUTest.F90, line 1127
+   Test 1: ringing =  T 00:00:00
+  PASS  Reverse Alarm Test Case 1, ESMF_AlarmUTest.F90, line 1118
+  PASS  Check if Alarm is disabled Test, ESMF_AlarmUTest.F90, line 950
+  PASS  Destroy Alarm Test, ESMF_AlarmUTest.F90, line 959
+ Test 2: c.t0 = a.t0, c.dt = 10 min a.dt = 20 min
+  PASS  Enable Alarm Test, ESMF_AlarmUTest.F90, line 914
+  PASS  Destroy Clock Test, ESMF_AlarmUTest.F90, line 968
+  PASS  Check if Alarm is enabled Test, ESMF_AlarmUTest.F90, line 923
+  PASS  Set Time Interval Initialization Test, ESMF_AlarmUTest.F90, line 978
+Alarm ----------------------------------
+name = ALARM1
+ringInterval = 
+TimeInterval ---------------------------
+ Test 2: ringing =  T 01:00:00
+  PASS  Set Start Time Initialization Test, ESMF_AlarmUTest.F90, line 990
+   Test 2: ringing =  F 00:50:00
+BaseTime -------------------------------
+s = -3600
+sN = 0
+sD = 1
+end BaseTime ---------------------------
+
+  PASS  Reverse Alarm Test Case 3, ESMF_AlarmUTest.F90, line 1136
+  PASS  Set Stop Time Initialization Test, ESMF_AlarmUTest.F90, line 1002
+ Test 4: c.t0 = a.t0, c.dt = 10 min a.dt = 12 min
+   Test 2: ringing =  T 00:40:00
+   Test 2: ringing =  F 00:30:00
+   Test 2: ringing =  T 00:20:00
+   Test 2: ringing =  F 00:10:00
+yy    = 0
+mm    = 0
+d     = 0
+d_r8  = -0
+Calendar = 
+Calendar -------------------------------
+name = InternalGregorian006
+calkindflag = Gregorian
+  PASS  Set Alarm Time Initialization Test, ESMF_AlarmUTest.F90, line 1013
+daysPerMonth = 31 28 31 30 31 30 31 31 30 31 30 31 
+monthsPerYear = 12
+secondsPerDay = 86400
+secondsPerYear = 31536000
+daysPerYear = 365
+daysPerYeardN = 0
+daysPerYeardD = 1
+end Calendar ---------------------------
+   Test 2: ringing =  T 00:00:00
+  PASS  Reverse Alarm Test Case 2, ESMF_AlarmUTest.F90, line 1127
+  PASS  Clock Initialization Test, ESMF_AlarmUTest.F90, line 1024
+      LOC(sticky) =     7FFC4A1EE918
+
+end TimeInterval -----------------------
+
+ringTime = 
+Time -----------------------------------
+BaseTime -------------------------------
+s = 211930387200
+sN = 0
+sD = 1
+end BaseTime ---------------------------
+
+Calendar -------------------------------
+name = Gregorian
+calkindflag = Gregorian
+ Test 4: ringing =  T Ìug     `ðJü  `ïJü  píJü  €      8¾†0F+  h       '3È     sticky =  F
+  PASS  Sticky Alarm Time Initialization Test, ESMF_AlarmUTest.F90, line 1033
+daysPerMonth = 31 28 31 30 31 30 31 31 30 31 30 31 
+monthsPerYear = 12
+secondsPerDay = 86400
+secondsPerYear = 31536000
+daysPerYear = 365
+daysPerYeardN = 0
+daysPerYeardD = 1
+end Calendar ---------------------------
+
+timeZone = 0
+end Time -------------------------------
+
+   Test 4: ringing =  F Ìug     `ðJü  `ïJü  píJü  €      8¾†0F+  h       '3È    
+   Test 4: ringing =  F Ìug     `ðJü  `ïJü  píJü  €      8¾†0F+  h       '3È    
+   Test 4: ringing =  F Ìug     `ðJü  `ïJü  píJü  €      8¾†0F+  h       '3È    
+firstRingTime = 
+Time -----------------------------------
+BaseTime -------------------------------
+s = 0
+sN = 0
+   Test 4: ringing =  F Ìug     `ðJü  `ïJü  píJü  €      8¾†0F+  h       '3È    
+   Test 4: ringing =  F Ìug     `ðJü  `ïJü  píJü  €      8¾†0F+  h       '3È    
+  PASS  Reverse Alarm Test Case 3, ESMF_AlarmUTest.F90, line 1136
+sD = 1
+end BaseTime ---------------------------
+
+timeZone = 0
+end Time -------------------------------
+
+prevRingTime = 
+Time -----------------------------------
+BaseTime -------------------------------
+s = 0
+sN = 0
+sD = 1
+end BaseTime ---------------------------
+
+timeZone = 0
+  PASS  Get Alarm Test, ESMF_AlarmUTest.F90, line 1042
+   Test 4: ringing =  T Ìug     `ðJü  `ïJü  píJü  €      8¾†0F+  h       '3È    
+  PASS  Reverse Alarm Test Case 4, ESMF_AlarmUTest.F90, line 1145
+end Time -------------------------------
+
+ringBegin = 
+Time -----------------------------------
+ Test 1: c.t0 = a.t0, c.dt = a.dt = 10 min
+ Test 4: c.t0 = a.t0, c.dt = 10 min a.dt = 12 min
+ Test 5: c.t0 = 0:0:0 a.t0=0:4:0, c.dt = a.dt = 10 min sticky (an alarm wont ring)
+BaseTime -------------------------------
+s = 0
+sN = 0
+sD = 1
+end BaseTime ---------------------------
+
+timeZone = 0
+end Time -------------------------------
+
+ringEnd = 
+Time -----------------------------------
+BaseTime -------------------------------
+s = 211914387927
+sN = 0
+sD = 1
+end BaseTime ---------------------------
+
+Calendar -------------------------------
+name = Gregorian
+calkindflag = Gregorian
+daysPerMonth = 31 28 31 30 31 30 31 31 30 31 30 31 
+monthsPerYear = 12
+secondsPerDay = 86400
+secondsPerYear = 31536000
+daysPerYear = 365
+daysPerYeardN = 0
+daysPerYeardD = 1
+Alarm Debug Printout: test4
+ ringing =  T
+ enabled =  T
+ sticky =  F
+end Calendar ---------------------------
+
+timeZone = 0
+end Time -------------------------------
+ Test 1: ringing =  T `ØÇ›ü   ÙÇ›ü  `ØÇ›ü  XƒÚ~+  @$N    @N    ¢Ü~+  Y”Ü~+  
+ ringerIsOn =  T
+Time Debug Printout:  ringTime =    1   1   1   1   0   0
+TimeInterval Debug Printout: ringInterval   0   0         0   0  12   0
+ 
+
+ringTimeStepCount = 1
+timeStepRingingCount = 0
+ringing = false
+ringingOnPrevTimeStep = false
+enabled = true
+sticky = true
+end Alarm ------------------------------
+
+      LOC(sticky) =     7FFCAC23E5D8
+   Test 1: ringing =  T `ØÇ›ü   ÙÇ›ü  `ØÇ›ü  XƒÚ~+  @$N    @N    ¢Ü~+  Y”Ü~+  
+  PASS  Reverse Alarm Test Case 5, ESMF_AlarmUTest.F90, line 1154
+  PASS  Alarm Print Test, ESMF_AlarmUTest.F90, line 932
+ Test 4: ringing =  T 01:00:00 sticky =  F
+   Test 4: ringing =  F 00:50:00
+   Test 4: ringing =  F 00:40:00
+   Test 1: ringing =  T `ØÇ›ü   ÙÇ›ü  `ØÇ›ü  XƒÚ~+  @$N    @N    ¢Ü~+  Y”Ü~+  
+   Test 1: ringing =  T `ØÇ›ü   ÙÇ›ü  `ØÇ›ü  XƒÚ~+  @$N    @N    ¢Ü~+  Y”Ü~+  
+   Test 1: ringing =  T `ØÇ›ü   ÙÇ›ü  `ØÇ›ü  XƒÚ~+  @$N    @N    ¢Ü~+  Y”Ü~+  
+   Test 1: ringing =  T `ØÇ›ü   ÙÇ›ü  `ØÇ›ü  XƒÚ~+  @$N    @N    ¢Ü~+  Y”Ü~+  
+   Test 1: ringing =  T `ØÇ›ü   ÙÇ›ü  `ØÇ›ü  XƒÚ~+  @$N    @N    ¢Ü~+  Y”Ü~+  
+   Test 4: ringing =  F 00:30:00
+   Test 4: ringing =  F 00:20:00
+   Test 4: ringing =  F 00:10:00
+ Test 6: c.t0 = a.t0, c.dt = 10 min a.dt = unspecified (one shot)
+  PASS  Disable Alarm Test, ESMF_AlarmUTest.F90, line 941
+  PASS  Check if Alarm is disabled Test, ESMF_AlarmUTest.F90, line 950
+  PASS  Forward Alarm Test Case 1, ESMF_AlarmUTest.F90, line 1054
+   Test 4: ringing =  T 00:00:00
+  PASS  Reverse Alarm Test Case 4, ESMF_AlarmUTest.F90, line 1145
+  PASS  Destroy Alarm Test, ESMF_AlarmUTest.F90, line 959
+ Test 2: c.t0 = a.t0, c.dt = 10 min a.dt = 20 min
+ Test 5: c.t0 = 0:0:0 a.t0=0:4:0, c.dt = a.dt = 10 min sticky (an alarm wont ring)
+ Test 6: ringing =  F Ìug     `ðJü  `ïJü  híJü  €      8¾†0F+  h       '3È     sticky =  F
+   Test 6: ringing =  F Ìug     `ðJü  `ïJü  híJü  €      8¾†0F+  h       '3È    
+  PASS  Destroy Clock Test, ESMF_AlarmUTest.F90, line 968
+   Test 6: ringing =  F Ìug     `ðJü  `ïJü  híJü  €      8¾†0F+  h       '3È    
+   Test 6: ringing =  T Ìug     `ðJü  `ïJü  híJü  €      8¾†0F+  h       '3È    
+ Test 2: ringing =  T `ØÇ›ü   ÙÇ›ü  `ØÇ›ü  XƒÚ~+  @$N    @N    ¢Ü~+  Y”Ü~+  
+   Test 2: ringing =  F `ØÇ›ü   ÙÇ›ü  `ØÇ›ü  XƒÚ~+  @$N    @N    ¢Ü~+  Y”Ü~+  
+   Test 2: ringing =  T `ØÇ›ü   ÙÇ›ü  `ØÇ›ü  XƒÚ~+  @$N    @N    ¢Ü~+  Y”Ü~+  
+  PASS  Set Time Interval Initialization Test, ESMF_AlarmUTest.F90, line 978
+   Test 6: ringing =  F Ìug     `ðJü  `ïJü  híJü  €      8¾†0F+  h       '3È    
+   Test 6: ringing =  F Ìug     `ðJü  `ïJü  híJü  €      8¾†0F+  h       '3È    
+   Test 6: ringing =  F Ìug     `ðJü  `ïJü  híJü  €      8¾†0F+  h       '3È    
+  PASS  Reverse Alarm Test Case 6, ESMF_AlarmUTest.F90, line 1163
+   Test 2: ringing =  F `ØÇ›ü   ÙÇ›ü  `ØÇ›ü  XƒÚ~+  @$N    @N    ¢Ü~+  Y”Ü~+  
+  PASS  Set Start Time Initialization Test, ESMF_AlarmUTest.F90, line 990
+   Test 2: ringing =  T `ØÇ›ü   ÙÇ›ü  `ØÇ›ü  XƒÚ~+  @$N    @N    ¢Ü~+  Y”Ü~+  
+   Test 2: ringing =  F `ØÇ›ü   ÙÇ›ü  `ØÇ›ü  XƒÚ~+  @$N    @N    ¢Ü~+  Y”Ü~+  
+   Test 2: ringing =  T `ØÇ›ü   ÙÇ›ü  `ØÇ›ü  XƒÚ~+  @$N    @N    ¢Ü~+  Y”Ü~+  
+ Forward and Reverse Alarms Tests: 
+ Test 1: c.t0 = a.t0, c.dt = a.dt = 10 min
+  PASS  Reverse Alarm Test Case 5, ESMF_AlarmUTest.F90, line 1154
+  PASS  Forward Alarm Test Case 2, ESMF_AlarmUTest.F90, line 1063
+  PASS  Set Stop Time Initialization Test, ESMF_AlarmUTest.F90, line 1002
+ Test 6: c.t0 = a.t0, c.dt = 10 min a.dt = unspecified (one shot)
+  PASS  Set Alarm Time Initialization Test, ESMF_AlarmUTest.F90, line 1013
+ Test 1: ringing =  T                                                         
+v”    
+  PASS  Clock Initialization Test, ESMF_AlarmUTest.F90, line 1024
+Alarm Debug Printout: test6
+ ringing =  F
+ enabled =  T
+ sticky =  F
+ ringerIsOn =  T
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+  PASS  Forward Alarm Test Case 3, ESMF_AlarmUTest.F90, line 1072
+Time Debug Printout:  ringTime =    1   1   1   0  30   0
+TimeInterval Debug Printout: ringInterval   0   0         0   0 -10   0
+ 
+ Test 6: ringing =  F 01:00:00 sticky =  F
+   Test 6: ringing =  F 00:50:00
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 6: ringing =  F 00:40:00
+   Test 6: ringing =  T 00:30:00
+  PASS  Sticky Alarm Time Initialization Test, ESMF_AlarmUTest.F90, line 1033
+ Test 4: c.t0 = a.t0, c.dt = 10 min a.dt = 12 min
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 6: ringing =  F 00:20:00
+   Test 1: ringing =  T                                                         
+v”    
+   Test 6: ringing =  F 00:10:00
+   Test 6: ringing =  F 00:00:00
+  PASS  Reverse Alarm Test Case 6, ESMF_AlarmUTest.F90, line 1163
+  PASS  Get Alarm Test, ESMF_AlarmUTest.F90, line 1042
+   Test 1: ringing =  T                                                         
+v”    
+          13
+  PASS  Forward then Reverse Alarm Test Case 1, ESMF_AlarmUTest.F90, line 1172
+      LOC(sticky) =     7FFC9BC7DAC8
+ Test 4: ringing =  T Ìug     âÇ›ü  áÇ›ü  <ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü   sticky =  F
+ Forward and Reverse Alarms Tests: 
+ Forward and Reverse Alarms Tests: 
+ Test 2: c.t0 = a.t0, c.dt = a.dt = 20 min
+ Test 1: c.t0 = a.t0, c.dt = a.dt = 10 min
+   Test 4: ringing =  F Ìug     âÇ›ü  áÇ›ü  <ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü  
+   Test 4: ringing =  F Ìug     âÇ›ü  áÇ›ü  <ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü  
+ Test 1: c.t0 = a.t0, c.dt = a.dt = 10 min
+   Test 4: ringing =  F Ìug     âÇ›ü  áÇ›ü  <ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü  
+   Test 4: ringing =  F Ìug     âÇ›ü  áÇ›ü  <ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü  
+   Test 4: ringing =  F Ìug     âÇ›ü  áÇ›ü  <ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü  
+   Test 4: ringing =  T Ìug     âÇ›ü  áÇ›ü  <ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü  
+  PASS  Forward Alarm Test Case 4, ESMF_AlarmUTest.F90, line 1081
+Alarm Debug Printout: test1
+ ringing =  T
+ enabled =  T
+ sticky =  F
+ ringerIsOn =  T
+ Test 2: ringing =  T                                                         
+v”    
+   Test 2: ringing =  F                                                         
+v”    
+Time Debug Printout:  ringTime =    1   1   1   0   0   0
+TimeInterval Debug Printout: ringInterval   0   0         0   0  10   0
+ 
+ Test 5: c.t0 = 0:0:0 a.t0=0:4:0, c.dt = a.dt = 10 min sticky (an alarm wont ring)
+   Test 2: ringing =  T                                                         
+v”    
+   Test 2: ringing =  F                                                         
+v”    
+   Test 2: ringing =  T                                                         
+v”    
+   Test 2: ringing =  F                                                         
+v”    
+ Test 1: ringing =  T `l<ü   m<ü  `l<ü  X‚Ñ—+  PœÜ     P’Ü     f—+  Yf—+  
+ Test 1: ringing =  T 00:00:00
+   Test 1: ringing =  T 00:10:00
+   Test 1: ringing =  T `l<ü   m<ü  `l<ü  X‚Ñ—+  PœÜ     P’Ü     f—+  Yf—+  
+   Test 2: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T 00:20:00
+   Test 2: ringing =  F                                                         
+v”    
+   Test 2: ringing =  T                                                         
+v”    
+   Test 2: ringing =  F                                                         
+v”    
+   Test 1: ringing =  T `l<ü   m<ü  `l<ü  X‚Ñ—+  PœÜ     P’Ü     f—+  Yf—+  
+   Test 1: ringing =  T `l<ü   m<ü  `l<ü  X‚Ñ—+  PœÜ     P’Ü     f—+  Yf—+  
+   Test 1: ringing =  T `l<ü   m<ü  `l<ü  X‚Ñ—+  PœÜ     P’Ü     f—+  Yf—+  
+   Test 1: ringing =  T `l<ü   m<ü  `l<ü  X‚Ñ—+  PœÜ     P’Ü     f—+  Yf—+  
+   Test 1: ringing =  T 00:30:00
+   Test 1: ringing =  T 00:40:00
+   Test 1: ringing =  T 00:50:00
+   Test 1: ringing =  T `l<ü   m<ü  `l<ü  X‚Ñ—+  PœÜ     P’Ü     f—+  Yf—+  
+  PASS  Forward Alarm Test Case 1, ESMF_AlarmUTest.F90, line 1054
+  PASS  Forward Alarm Test Case 5, ESMF_AlarmUTest.F90, line 1090
+   Test 2: ringing =  T                                                         
+v”    
+   Test 2: ringing =  F                                                         
+v”    
+   Test 2: ringing =  T                                                         
+v”    
+           7
+   Test 1: ringing =  T 01:00:00
+  PASS  Forward then Reverse Alarm Test Case 2, ESMF_AlarmUTest.F90, line 1181
+ Test 6: c.t0 = a.t0, c.dt = 10 min a.dt = unspecified (one shot)
+   Test 1: ringing =  T 00:50:00
+   Test 1: ringing =  T 00:40:00
+   Test 1: ringing =  T 00:30:00
+ Test 2: c.t0 = a.t0, c.dt = 10 min a.dt = 20 min
+ Forward and Reverse Alarms Tests: 
+ Test 3: c.t0 = a.t0, c.dt = a.dt = 12 min
+   Test 1: ringing =  T 00:20:00
+   Test 1: ringing =  T 00:10:00
+   Test 1: ringing =  T 00:00:00
+ Test 6: ringing =  F áÇ›ü  4ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü          '3È     sticky =  F
+          13
+  PASS  Forward then Reverse Alarm Test Case 1, ESMF_AlarmUTest.F90, line 1172
+   Test 6: ringing =  F áÇ›ü  4ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü          '3È    
+   Test 6: ringing =  F áÇ›ü  4ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü          '3È    
+ Forward and Reverse Alarms Tests: 
+ Test 2: c.t0 = a.t0, c.dt = a.dt = 20 min
+ Test 3: ringing =  T                                                         
+v”    
+ Test 2: ringing =  T `l<ü   m<ü  `l<ü  X‚Ñ—+  PœÜ     P’Ü     f—+  Yf—+  
+   Test 2: ringing =  F `l<ü   m<ü  `l<ü  X‚Ñ—+  PœÜ     P’Ü     f—+  Yf—+  
+   Test 6: ringing =  T áÇ›ü  4ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü          '3È    
+   Test 6: ringing =  F áÇ›ü  4ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü          '3È    
+   Test 6: ringing =  F áÇ›ü  4ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü          '3È    
+   Test 6: ringing =  F áÇ›ü  4ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü          '3È    
+   Test 3: ringing =  F                                                         
+v”    
+   Test 3: ringing =  F                                                         
+v”    
+   Test 3: ringing =  F                                                         
+v”    
+  PASS  Forward Alarm Test Case 6, ESMF_AlarmUTest.F90, line 1099
+   Test 2: ringing =  T `l<ü   m<ü  `l<ü  X‚Ñ—+  PœÜ     P’Ü     f—+  Yf—+  
+   Test 2: ringing =  F `l<ü   m<ü  `l<ü  X‚Ñ—+  PœÜ     P’Ü     f—+  Yf—+  
+   Test 2: ringing =  T `l<ü   m<ü  `l<ü  X‚Ñ—+  PœÜ     P’Ü     f—+  Yf—+  
+   Test 2: ringing =  F `l<ü   m<ü  `l<ü  X‚Ñ—+  PœÜ     P’Ü     f—+  Yf—+  
+   Test 2: ringing =  T `l<ü   m<ü  `l<ü  X‚Ñ—+  PœÜ     P’Ü     f—+  Yf—+  
+   Test 3: ringing =  F                                                         
+v”    
+   Test 3: ringing =  F                                                         
+v”    
+   Test 3: ringing =  T                                                         
+v”    
+ Test 7: c.t0, a.t0 unspecified default to c.t0, c.dt = 10 min a.dt = 10 min
+   Test 3: ringing =  F                                                         
+v”    
+   Test 3: ringing =  F                                                         
+v”    
+   Test 3: ringing =  F                                                         
+v”    
+Alarm Debug Printout: test1
+ ringing =  T
+ enabled =  T
+ sticky =  F
+ ringerIsOn =  T
+Time Debug Printout:  ringTime =    1   1   1   0   0   0
+  PASS  Forward Alarm Test Case 2, ESMF_AlarmUTest.F90, line 1063
+   Test 3: ringing =  F                                                         
+v”    
+TimeInterval Debug Printout: ringInterval   0   0         0   0  20   0
+ 
+   Test 3: ringing =  F                                                         
+v”    
+   Test 3: ringing =  T                                                         
+v”    
+           3
+  PASS  Forward then Reverse Alarm Test Case 3, ESMF_AlarmUTest.F90, line 1190
+ Test 2: ringing =  T 00:00:00
+   Test 2: ringing =  F 00:10:00
+   Test 2: ringing =  T 00:20:00
+ Test 7: ringing =  T áÇ›ü  0ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü          '3È     sticky =  F
+   Test 7: ringing =  T áÇ›ü  0ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü          '3È    
+   Test 7: ringing =  T áÇ›ü  0ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü          '3È    
+   Test 7: ringing =  T áÇ›ü  0ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü          '3È    
+   Test 2: ringing =  F 00:30:00
+   Test 2: ringing =  T 00:40:00
+   Test 2: ringing =  F 00:50:00
+   Test 7: ringing =  T áÇ›ü  0ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü          '3È    
+   Test 2: ringing =  T 01:00:00
+   Test 2: ringing =  F 00:50:00
+Time -----------------------------------
+2021-04-06T00:00:00
+end Time -------------------------------
+
+   Test 7: ringing =  T áÇ›ü  0ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü          '3È    
+   Test 7: ringing =  T áÇ›ü  0ßÇ›ü  €      8.@Ü~+  h        ÜÇ›ü          '3È    
+  PASS  Forward Alarm Test Case 7, ESMF_AlarmUTest.F90, line 1108
+Time -----------------------------------
+2021-04-06T03:20:00
+end Time -------------------------------
+
+  PASS  Forward Alarm Test Case 3, ESMF_AlarmUTest.F90, line 1072
+   Test 2: ringing =  T 00:40:00
+   Test 2: ringing =  F 00:30:00
+   Test 2: ringing =  T 00:20:00
+   Test 2: ringing =  F 00:10:00
+ Test 1: c.t0 = a.t0, c.dt = a.dt = 10 min
+   Test 2: ringing =  T 00:00:00
+           7
+  PASS  Forward then Reverse Alarm Test Case 2, ESMF_AlarmUTest.F90, line 1181
+ Test 4: c.t0 = a.t0, c.dt = 10 min a.dt = 12 min
+reverse = T
+sticky  = F
+ Before Alarm Create ringTime: 
+Time -----------------------------------
+2021-04-06T01:40:00
+end Time -------------------------------
+
+ Forward and Reverse Alarms Tests: 
+ Test 3: c.t0 = a.t0, c.dt = a.dt = 12 min
+ Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+      LOC(sticky) =     7FFC083C6EC8
+   Test 1: ringing =  T                                                         
+v”    
+Alarm Debug Printout: test1
+ ringing =  T
+ enabled =  T
+ sticky =  F
+ ringerIsOn =  T
+ Test 4: ringing =  T Ìug     v<ü  u<ü  <s<ü  €      8žŽ—+  h        p<ü   sticky =  F
+   Test 4: ringing =  F Ìug     v<ü  u<ü  <s<ü  €      8žŽ—+  h        p<ü  
+   Test 4: ringing =  F Ìug     v<ü  u<ü  <s<ü  €      8žŽ—+  h        p<ü  
+Time -----------------------------------
+2021-04-06T01:40:00
+end Time -------------------------------
+
+ After Alarm Create ringTime: 
+Time -----------------------------------
+2021-04-06T01:40:00
+end Time -------------------------------
+
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+  PASS  Reverse Alarm Test Case 1, ESMF_AlarmUTest.F90, line 1118
+Time Debug Printout:  ringTime =    1   1   1   0   0   0
+TimeInterval Debug Printout: ringInterval   0   0         0   0  12   0
+ 
+   Test 4: ringing =  F Ìug     v<ü  u<ü  <s<ü  €      8žŽ—+  h        p<ü  
+   Test 4: ringing =  F Ìug     v<ü  u<ü  <s<ü  €      8žŽ—+  h        p<ü  
+Alarm ----------------------------------
+sticky = false
+end Alarm ------------------------------
+
+  PASS  Test ClockSet after alarm attached to clock, ESMF_AlarmUTest.F90, line 1201
+ Test 2: c.t0 = a.t0, c.dt = 10 min a.dt = 20 min
+ Test 3: ringing =  T 00:00:00
+   Test 3: ringing =  F 00:10:00
+   Test 3: ringing =  F 00:20:00
+   Test 4: ringing =  F Ìug     v<ü  u<ü  <s<ü  €      8žŽ—+  h        p<ü  
+   Test 4: ringing =  T Ìug     v<ü  u<ü  <s<ü  €      8žŽ—+  h        p<ü  
+  PASS  Forward Alarm Test Case 4, ESMF_AlarmUTest.F90, line 1081
+   Test 3: ringing =  F 00:30:00
+   Test 3: ringing =  F 00:40:00
+   Test 3: ringing =  F 00:50:00
+ Test 5: c.t0 = 0:0:0 a.t0=0:4:0, c.dt = a.dt = 10 min sticky (an alarm wont ring)
+   Test 3: ringing =  T 01:00:00
+ Test 2: ringing =  T                                                         
+v”    
+   Test 3: ringing =  F 00:50:00
+   Test 2: ringing =  F                                                         
+v”    
+   Test 2: ringing =  T                                                         
+v”    
+   Test 2: ringing =  F                                                         
+v”    
+   Test 3: ringing =  F 00:40:00
+   Test 3: ringing =  F 00:30:00
+   Test 3: ringing =  F 00:20:00
+   Test 2: ringing =  T                                                         
+v”    
+   Test 2: ringing =  F                                                         
+v”    
+   Test 3: ringing =  F 00:10:00
+   Test 3: ringing =  T 00:00:00
+           3
+   Test 2: ringing =  T                                                         
+v”    
+  PASS  Reverse Alarm Test Case 2, ESMF_AlarmUTest.F90, line 1127
+  PASS  Forward then Reverse Alarm Test Case 3, ESMF_AlarmUTest.F90, line 1190
+  PASS  Forward Alarm Test Case 5, ESMF_AlarmUTest.F90, line 1090
+ ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ Test 6: c.t0 = a.t0, c.dt = 10 min a.dt = unspecified (one shot)
+ ringing
+Time -----------------------------------
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+2021-04-06T00:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2021-04-06T03:20:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+  PASS  Reverse Alarm Test Case 3, ESMF_AlarmUTest.F90, line 1136
+ ringing
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+reverse = T
+sticky  = F
+ ringing
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+
+ Before Alarm Create ringTime: 
+Time -----------------------------------
+2021-04-06T01:40:00
+end Time -------------------------------
+
+ Test 6: ringing =  F u<ü  4s<ü  €      8žŽ—+  h        p<ü          '3È     sticky =  F
+   Test 6: ringing =  F u<ü  4s<ü  €      8žŽ—+  h        p<ü          '3È    
+   Test 6: ringing =  F u<ü  4s<ü  €      8žŽ—+  h        p<ü          '3È    
+ Test 4: c.t0 = a.t0, c.dt = 10 min a.dt = 12 min
+   Test 6: ringing =  T u<ü  4s<ü  €      8žŽ—+  h        p<ü          '3È    
+ ringing
+Time -----------------------------------
+2000-10-02T02:00:00
+end Time -------------------------------
+
+   Test 6: ringing =  F u<ü  4s<ü  €      8žŽ—+  h        p<ü          '3È    
+   Test 6: ringing =  F u<ü  4s<ü  €      8žŽ—+  h        p<ü          '3È    
+   Test 6: ringing =  F u<ü  4s<ü  €      8žŽ—+  h        p<ü          '3È    
+  PASS  Forward Alarm Test Case 6, ESMF_AlarmUTest.F90, line 1099
+ ringing
+Time -----------------------------------
+2000-10-02T03:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2021-04-06T01:40:00
+end Time -------------------------------
+
+ After Alarm Create ringTime: 
+Time -----------------------------------
+2021-04-06T01:40:00
+      LOC(sticky) =     7FFC9BC7DAC8
+ Test 4: ringing =  T Ìug     âÇ›ü  áÇ›ü   ßÇ›ü  €      8.@Ü~+  h       '3È     sticky =  F
+ ringing
+Time -----------------------------------
+end Time -------------------------------
+
+ Test 7: c.t0, a.t0 unspecified default to c.t0, c.dt = 10 min a.dt = 10 min
+   Test 4: ringing =  F Ìug     âÇ›ü  áÇ›ü   ßÇ›ü  €      8.@Ü~+  h       '3È    
+   Test 4: ringing =  F Ìug     âÇ›ü  áÇ›ü   ßÇ›ü  €      8.@Ü~+  h       '3È    
+   Test 4: ringing =  F Ìug     âÇ›ü  áÇ›ü   ßÇ›ü  €      8.@Ü~+  h       '3È    
+   Test 4: ringing =  F Ìug     âÇ›ü  áÇ›ü   ßÇ›ü  €      8.@Ü~+  h       '3È    
+2000-10-02T04:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+Alarm ----------------------------------
+sticky = false
+end Alarm ------------------------------
+
+  PASS  Test ClockSet after alarm attached to clock, ESMF_AlarmUTest.F90, line 1201
+2000-10-02T05:00:00
+end Time -------------------------------
+
+   Test 4: ringing =  F Ìug     âÇ›ü  áÇ›ü   ßÇ›ü  €      8.@Ü~+  h       '3È    
+ ringing
+Time -----------------------------------
+2000-10-02T06:00:00
+end Time -------------------------------
+
+   Test 4: ringing =  T Ìug     âÇ›ü  áÇ›ü   ßÇ›ü  €      8.@Ü~+  h       '3È    
+  PASS  Reverse Alarm Test Case 4, ESMF_AlarmUTest.F90, line 1145
+ ringing
+Time -----------------------------------
+2000-10-02T07:00:00
+end Time -------------------------------
+
+ Test 5: c.t0 = 0:0:0 a.t0=0:4:0, c.dt = a.dt = 10 min sticky (an alarm wont ring)
+ Test 7: ringing =  T u<ü  0s<ü  €      8žŽ—+  h        p<ü          '3È     sticky =  F
+   Test 7: ringing =  T u<ü  0s<ü  €      8žŽ—+  h        p<ü          '3È    
+ ringing
+Time -----------------------------------
+2000-10-02T08:00:00
+end Time -------------------------------
+
+   Test 7: ringing =  T u<ü  0s<ü  €      8žŽ—+  h        p<ü          '3È    
+   Test 7: ringing =  T u<ü  0s<ü  €      8žŽ—+  h        p<ü          '3È    
+   Test 7: ringing =  T u<ü  0s<ü  €      8žŽ—+  h        p<ü          '3È    
+ Rewind step:            1
+   Test 7: ringing =  T u<ü  0s<ü  €      8žŽ—+  h        p<ü          '3È    
+   Test 7: ringing =  T u<ü  0s<ü  €      8žŽ—+  h        p<ü          '3È    
+ Rewind step:            2
+ Rewind step:            3
+  PASS  Forward Alarm Test Case 7, ESMF_AlarmUTest.F90, line 1108
+ ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+  PASS  Reverse Alarm Test Case 5, ESMF_AlarmUTest.F90, line 1154
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T08:00:00
+end Time -------------------------------
+
+ Rewind step:            4
+ Rewind step:            5
+ Test 1: c.t0 = a.t0, c.dt = a.dt = 10 min
+ ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ Test 6: c.t0 = a.t0, c.dt = 10 min a.dt = unspecified (one shot)
+ Rewind step:            6
+ Rewind step:            7
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T07:00:00
+end Time -------------------------------
+
+ Rewind step:            8
+ ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ Rewind step:            9
+ Rewind step:           10
+ Rewind step:           11
+ rewinding one step  T
+Time -----------------------------------
+ ringing
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+2000-10-02T06:00:00
+end Time -------------------------------
+
+ Rewind step:           12
+ Test 6: ringing =  F Ìug     âÇ›ü  áÇ›ü  ßÇ›ü  €      8.@Ü~+  h       '3È     sticky =  F
+   Test 6: ringing =  F Ìug     âÇ›ü  áÇ›ü  ßÇ›ü  €      8.@Ü~+  h       '3È    
+ Test 1: ringing =  T                                                         
+v”    
+ ringing
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+ Rewind step:           13
+ Rewind step:           14
+ Rewind step:           15
+
+   Test 6: ringing =  F Ìug     âÇ›ü  áÇ›ü  ßÇ›ü  €      8.@Ü~+  h       '3È    
+   Test 6: ringing =  T Ìug     âÇ›ü  áÇ›ü  ßÇ›ü  €      8.@Ü~+  h       '3È    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T05:00:00
+end Time -------------------------------
+
+ Rewind step:           16
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+ ringing
+Time -----------------------------------
+2000-10-02T02:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+   Test 6: ringing =  F Ìug     âÇ›ü  áÇ›ü  ßÇ›ü  €      8.@Ü~+  h       '3È    
+   Test 6: ringing =  F Ìug     âÇ›ü  áÇ›ü  ßÇ›ü  €      8.@Ü~+  h       '3È    
+   Test 6: ringing =  F Ìug     âÇ›ü  áÇ›ü  ßÇ›ü  €      8.@Ü~+  h       '3È    
+  PASS  Reverse Alarm Test Case 6, ESMF_AlarmUTest.F90, line 1163
+ Rewind step:           17
+ Rewind step:           18
+ Rewind step:           19
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T04:00:00
+end Time -------------------------------
+
+  PASS  Reverse Alarm Test Case 1, ESMF_AlarmUTest.F90, line 1118
+2000-10-02T03:00:00
+end Time -------------------------------
+
+ Rewind step:           20
+ Rewind step:           21
+ Forward and Reverse Alarms Tests: 
+ Test 1: c.t0 = a.t0, c.dt = a.dt = 10 min
+ ringing
+Time -----------------------------------
+2000-10-02T04:00:00
+end Time -------------------------------
+
+ Rewind step:           22
+ Rewind step:           23
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T03:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T05:00:00
+end Time -------------------------------
+
+ Test 2: c.t0 = a.t0, c.dt = 10 min a.dt = 20 min
+ Rewind step:           24
+ Rewind step:           25
+ Rewind step:           26
+ Rewind step:           27
+ ringing
+Time -----------------------------------
+2000-10-02T06:00:00
+end Time -------------------------------
+
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T02:00:00
+end Time -------------------------------
+
+ Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+ ringing
+Time -----------------------------------
+2000-10-02T07:00:00
+end Time -------------------------------
+
+ Rewind step:           28
+ Rewind step:           29
+ Rewind step:           30
+ Rewind step:           31
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+ rewinding one step  T
+Time -----------------------------------
+ Test 2: ringing =  T                                                         
+v”    
+   Test 2: ringing =  F                                                         
+v”    
+ ringing
+Time -----------------------------------
+2000-10-02T08:00:00
+end Time -------------------------------
+
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+2000-10-02T01:00:00
+end Time -------------------------------
+
+ Rewind step:           32
+ Rewind step:           33
+ Rewind step:           34
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 2: ringing =  T                                                         
+v”    
+   Test 2: ringing =  F                                                         
+v”    
+   Test 2: ringing =  T                                                         
+v”    
+ Rewind step:           35
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T00:00:00
+   Test 2: ringing =  F                                                         
+v”    
+   Test 2: ringing =  T                                                         
+v”    
+  PASS  Reverse Alarm Test Case 2, ESMF_AlarmUTest.F90, line 1127
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+          13
+ Rewind step:            1
+ Rewind step:            2
+ Rewind step:            3
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T08:00:00
+end Time -------------------------------
+
+ Rewind step:            4
+end Time -------------------------------
+
+ Rewind step:           36
+ Rewind step:           37
+ Rewind step:           38
+ Rewind step:           39
+ Rewind step:            5
+ Rewind step:            6
+ Rewind step:            7
+  PASS  Forward then Reverse Alarm Test Case 1, ESMF_AlarmUTest.F90, line 1172
+ rewinding one step  T
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ Rewind step:           40
+ Rewind step:           41
+ Forward and Reverse Alarms Tests: 
+ Test 2: c.t0 = a.t0, c.dt = a.dt = 20 min
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T07:00:00
+end Time -------------------------------
+
+ Rewind step:            8
+ Rewind step:           42
+ Rewind step:           43
+ rewinding one step  T
+Time -----------------------------------
+ Rewind step:            9
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ Rewind step:           10
+ Rewind step:           11
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T06:00:00
+end Time -------------------------------
+
+ Rewind step:           44
+ Rewind step:           45
+ Rewind step:           46
+ Rewind step:           12
+ Rewind step:           13
+ Rewind step:           47
+ rewinding one step  T
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ Rewind step:           14
+ Rewind step:           15
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T05:00:00
+end Time -------------------------------
+
+ Rewind step:           16
+  PASS  Reverse Alarm Test Case 3, ESMF_AlarmUTest.F90, line 1136
+ Test 2: ringing =  T                                                         
+v”    
+   Test 2: ringing =  F                                                         
+v”    
+   Test 2: ringing =  T                                                         
+v”    
+   Test 2: ringing =  F                                                         
+v”    
+ *************** end rewind *********************
+ ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+   Test 2: ringing =  T                                                         
+v”    
+   Test 2: ringing =  F                                                         
+v”    
+ Rewind step:           17
+ Rewind step:           18
+ Rewind step:           19
+ ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T04:00:00
+end Time -------------------------------
+
+ Rewind step:           20
+ Rewind step:           21
+   Test 2: ringing =  T                                                         
+v”    
+   Test 2: ringing =  F                                                         
+v”    
+   Test 2: ringing =  T                                                         
+v”    
+ Test 4: c.t0 = a.t0, c.dt = 10 min a.dt = 12 min
+ ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ Rewind step:           22
+ Rewind step:           23
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T03:00:00
+end Time -------------------------------
+
+   Test 2: ringing =  F                                                         
+v”    
+   Test 2: ringing =  T                                                         
+v”    
+   Test 2: ringing =  F                                                         
+v”    
+   Test 2: ringing =  T                                                         
+v”    
+           7
+ ringing
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+  PASS  Forward then Reverse Alarm Test Case 2, ESMF_AlarmUTest.F90, line 1181
+ Rewind step:           24
+ Rewind step:           25
+ Rewind step:           26
+ ringing
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+
+      LOC(sticky) =     7FFC083C6EC8
+ Test 4: ringing =  T Ìug     v<ü  u<ü   s<ü  €      8žŽ—+  h       '3È     sticky =  F
+   Test 4: ringing =  F Ìug     v<ü  u<ü   s<ü  €      8žŽ—+  h       '3È    
+   Test 4: ringing =  F Ìug     v<ü  u<ü   s<ü  €      8žŽ—+  h       '3È    
+ Rewind step:           27
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T02:00:00
+end Time -------------------------------
+
+ Rewind step:           28
+ Rewind step:           29
+ Forward and Reverse Alarms Tests: 
+ Test 3: c.t0 = a.t0, c.dt = a.dt = 12 min
+ ringing
+Time -----------------------------------
+2000-10-02T02:00:00
+end Time -------------------------------
+
+   Test 4: ringing =  F Ìug     v<ü  u<ü   s<ü  €      8žŽ—+  h       '3È    
+ Rewind step:           30
+ ringing
+Time -----------------------------------
+2000-10-02T03:00:00
+end Time -------------------------------
+
+   Test 4: ringing =  F Ìug     v<ü  u<ü   s<ü  €      8žŽ—+  h       '3È    
+   Test 4: ringing =  F Ìug     v<ü  u<ü   s<ü  €      8žŽ—+  h       '3È    
+   Test 4: ringing =  T Ìug     v<ü  u<ü   s<ü  €      8žŽ—+  h       '3È    
+ Rewind step:           31
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+
+ Rewind step:           32
+  PASS  Reverse Alarm Test Case 4, ESMF_AlarmUTest.F90, line 1145
+ ringing
+Time -----------------------------------
+2000-10-02T04:00:00
+end Time -------------------------------
+
+ Rewind step:           33
+ Test 3: ringing =  T                                                         
+v”    
+   Test 3: ringing =  F                                                         
+v”    
+   Test 3: ringing =  F                                                         
+v”    
+   Test 3: ringing =  F                                                         
+v”    
+ ringing
+Time -----------------------------------
+2000-10-02T05:00:00
+end Time -------------------------------
+
+ Rewind step:           34
+ Rewind step:           35
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+ Rewind step:           36
+   Test 3: ringing =  F                                                         
+v”    
+   Test 3: ringing =  F                                                         
+v”    
+ Test 5: c.t0 = 0:0:0 a.t0=0:4:0, c.dt = a.dt = 10 min sticky (an alarm wont ring)
+ Rewind step:           37
+ Rewind step:           38
+ Rewind step:           39
+ ringing
+Time -----------------------------------
+2000-10-02T06:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+   Test 3: ringing =  T                                                         
+v”    
+   Test 3: ringing =  F                                                         
+v”    
+   Test 3: ringing =  F                                                         
+v”    
+ rewinding one step  T
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ Rewind step:           40
+ Rewind step:           41
+   Test 3: ringing =  F                                                         
+v”    
+2000-10-02T07:00:00
+end Time -------------------------------
+
+ Rewind step:           42
+ ringing
+Time -----------------------------------
+2000-10-02T08:00:00
+end Time -------------------------------
+
+   Test 3: ringing =  F                                                         
+v”    
+   Test 3: ringing =  F                                                         
+v”    
+   Test 3: ringing =  T                                                         
+v”    
+           3
+  PASS  Forward then Reverse Alarm Test Case 3, ESMF_AlarmUTest.F90, line 1190
+ Rewind step:           43
+ rewinding one step  T
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ Rewind step:           44
+ Rewind step:           45
+ Rewind step:           46
+ Rewind step:           47
+  PASS  Reverse Alarm Test Case 5, ESMF_AlarmUTest.F90, line 1154
+ ringing
+Time -----------------------------------
+2000-10-02T09:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T10:00:00
+end Time -------------------------------
+ rewinding one step  T
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2021-04-06T00:00:00
+end Time -------------------------------
+
+
+ Test 6: c.t0 = a.t0, c.dt = 10 min a.dt = unspecified (one shot)
+ *************** end rewind *********************
+ ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2021-04-06T03:20:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T11:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+ ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+2000-10-02T12:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ ringing
+ Before Alarm Create ringTime: 
+Time -----------------------------------
+2021-04-06T01:40:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T13:00:00
+end Time -------------------------------
+
+ Test 6: ringing =  F Ìug     v<ü  u<ü  s<ü  €      8žŽ—+  h       '3È     sticky =  F
+   Test 6: ringing =  F Ìug     v<ü  u<ü  s<ü  €      8žŽ—+  h       '3È    
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T14:00:00
+end Time -------------------------------
+
+reverse = T
+sticky  = F
+ ringing
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+
+   Test 6: ringing =  F Ìug     v<ü  u<ü  s<ü  €      8žŽ—+  h       '3È    
+   Test 6: ringing =  T Ìug     v<ü  u<ü  s<ü  €      8žŽ—+  h       '3È    
+   Test 6: ringing =  F Ìug     v<ü  u<ü  s<ü  €      8žŽ—+  h       '3È    
+   Test 6: ringing =  F Ìug     v<ü  u<ü  s<ü  €      8žŽ—+  h       '3È    
+ ringing
+Time -----------------------------------
+2000-10-02T15:00:00
+end Time -------------------------------
+
+   Test 6: ringing =  F Ìug     v<ü  u<ü  s<ü  €      8žŽ—+  h       '3È    
+  PASS  Reverse Alarm Test Case 6, ESMF_AlarmUTest.F90, line 1163
+Time -----------------------------------
+2021-04-06T01:40:00
+end Time -------------------------------
+
+ After Alarm Create ringTime: 
+ ringing
+Time -----------------------------------
+2000-10-02T02:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T16:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T03:00:00
+end Time -------------------------------
+
+ Forward and Reverse Alarms Tests: 
+ Test 1: c.t0 = a.t0, c.dt = a.dt = 10 min
+Time -----------------------------------
+2021-04-06T01:40:00
+end Time -------------------------------
+
+Alarm ----------------------------------
+sticky = false
+end Alarm ------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T17:00:00
+end Time -------------------------------
+
+  PASS  Test ClockSet after alarm attached to clock, ESMF_AlarmUTest.F90, line 1201
+ ringing
+Time -----------------------------------
+2000-10-02T04:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T18:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T05:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T19:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T06:00:00
+end Time -------------------------------
+
+ Test 1: ringing =  T                                                         
+v”    
+ ringing
+Time -----------------------------------
+2000-10-02T20:00:00
+end Time -------------------------------
+
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+ ringing
+Time -----------------------------------
+2000-10-02T07:00:00
+end Time -------------------------------
+
+  PASS  Test multiple alarms rewind correct number of times, ESMF_AlarmUTest.F90, line 1214
+ ringing
+Time -----------------------------------
+2000-10-02T08:00:00
+end Time -------------------------------
+
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+ ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T09:00:00
+end Time -------------------------------
+
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+ ringing
+Time -----------------------------------
+2000-10-02T10:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+   Test 1: ringing =  T                                                         
+v”    
+ ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T11:00:00
+end Time -------------------------------
+
+   Test 1: ringing =  T                                                         
+v”    
+          13
+  PASS  Forward then Reverse Alarm Test Case 1, ESMF_AlarmUTest.F90, line 1172
+ ringing
+Time -----------------------------------
+2000-10-02T12:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+ ringing
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+ Forward and Reverse Alarms Tests: 
+ Test 2: c.t0 = a.t0, c.dt = a.dt = 20 min
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T13:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T02:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T14:00:00
+end Time -------------------------------
+
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T15:00:00
+end Time -------------------------------
+
+ Test 2: ringing =  T                                                         
+v”    
+ ringing
+Time -----------------------------------
+2000-10-02T03:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+ ringing
+Time -----------------------------------
+2000-10-02T16:00:00
+end Time -------------------------------
+
+2000-10-02T04:00:00
+end Time -------------------------------
+
+   Test 2: ringing =  F                                                         
+v”    
+   Test 2: ringing =  T                                                         
+v”    
+ ringing
+Time -----------------------------------
+2000-10-02T17:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T05:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ rewinding one step: testalarm  F
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+   Test 2: ringing =  F                                                         
+v”    
+   Test 2: ringing =  T                                                         
+v”    
+   Test 2: ringing =  F                                                         
+v”    
+   Test 2: ringing =  T                                                         
+v”    
+ ringing
+Time -----------------------------------
+2000-10-02T18:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ rewinding one step: testalarm  F
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+   Test 2: ringing =  F                                                         
+v”    
+   Test 2: ringing =  T                                                         
+v”    
+   Test 2: ringing =  F                                                         
+v”    
+ ringing
+Time -----------------------------------
+2000-10-02T06:00:00
+end Time -------------------------------
+
+ ringing
+ ringing
+Time -----------------------------------
+2000-10-02T19:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+   Test 2: ringing =  T                                                         
+v”    
+ ringing
+Time -----------------------------------
+2000-10-02T20:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ rewinding one step: testalarm  T
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-02T07:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T08:00:00
+end Time -------------------------------
+
+   Test 2: ringing =  F                                                         
+v”    
+   Test 2: ringing =  T                                                         
+v”    
+           7
+  PASS  Forward then Reverse Alarm Test Case 2, ESMF_AlarmUTest.F90, line 1181
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ Rewind step:            1
+  PASS  Test multiple alarms rewind correct number of times, ESMF_AlarmUTest.F90, line 1214
+ Forward and Reverse Alarms Tests: 
+ Test 3: c.t0 = a.t0, c.dt = a.dt = 12 min
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ Rewind step:            2
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ Rewind step:            3
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T08:00:00
+end Time -------------------------------
+
+ Rewind step:            4
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+
+ Rewind step:            5
+ Rewind step:            6
+ Rewind step:            7
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-02T02:00:00
+end Time -------------------------------
+
+ rewinding one step  T
+ Test 3: ringing =  T                                                         
+v”    
+   Test 3: ringing =  F                                                         
+v”    
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+  PASS  Test multiple alarms replay without hanging, ESMF_AlarmUTest.F90, line 1225
+Time -----------------------------------
+2000-10-02T07:00:00
+end Time -------------------------------
+
+ Rewind step:            8
+ Rewind step:            9
+   Test 3: ringing =  F                                                         
+v”    
+   Test 3: ringing =  F                                                         
+v”    
+ Rewind step:           10
+ Rewind step:           11
+   Test 3: ringing =  F                                                         
+v”    
+   Test 3: ringing =  F                                                         
+v”    
+   Test 3: ringing =  T                                                         
+v”    
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T06:00:00
+end Time -------------------------------
+
+ Rewind step:           12
+ Rewind step:           13
+ Rewind step:           14
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ rewinding one step: testalarm  F
+Time -----------------------------------
+   Test 3: ringing =  F                                                         
+v”    
+   Test 3: ringing =  F                                                         
+v”    
+   Test 3: ringing =  F                                                         
+v”    
+   Test 3: ringing =  F                                                         
+v”    
+ Rewind step:           15
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T05:00:00
+end Time -------------------------------
+
+ Rewind step:           16
+ Rewind step:           17
+   Test 3: ringing =  F                                                         
+v”    
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ Rewind step:           18
+ Rewind step:           19
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ rewinding one step: testalarm  F
+Time -----------------------------------
+   Test 3: ringing =  T                                                         
+v”    
+           3
+  PASS  Forward then Reverse Alarm Test Case 3, ESMF_AlarmUTest.F90, line 1190
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T04:00:00
+end Time -------------------------------
+
+ Rewind step:           20
+ Rewind step:           21
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ Rewind step:           22
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ rewinding one step: testalarm  T
+Time -----------------------------------
+ Rewind step:           23
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T03:00:00
+end Time -------------------------------
+
+ Rewind step:           24
+2000-10-01T21:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2021-04-06T00:00:00
+end Time -------------------------------
+
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+ Rewind step:           25
+ Rewind step:           26
+2000-10-01T21:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2021-04-06T03:20:00
+end Time -------------------------------
+
+ Rewind step:           27
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T02:00:00
+end Time -------------------------------
+
+ Rewind step:           28
+ Rewind step:           29
+ Rewind step:           30
+2000-10-01T21:30:00
+end Time -------------------------------
+
+reverse = T
+sticky  = F
+ Before Alarm Create ringTime: 
+Time -----------------------------------
+2021-04-06T01:40:00
+end Time -------------------------------
+ Rewind step:           31
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+
+ Rewind step:           32
+ Rewind step:           33
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+
+ Rewind step:           34
+ Rewind step:           35
+2000-10-01T22:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-02T02:00:00
+end Time -------------------------------
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+ Rewind step:           36
+ Rewind step:           37
+ Rewind step:           38
+ Rewind step:           39
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+
+Time -----------------------------------
+2021-04-06T01:40:00
+end Time -------------------------------
+
+2000-10-01T22:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+ rewinding one step  T
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ Rewind step:           40
+ Rewind step:           41
+ Rewind step:           42
+ After Alarm Create ringTime: 
+Time -----------------------------------
+2021-04-06T01:40:00
+end Time -------------------------------
+
+Alarm ----------------------------------
+  PASS  Test multiple alarms replay without hanging, ESMF_AlarmUTest.F90, line 1225
+Time -----------------------------------
+2000-10-01T22:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ Rewind step:           43
+ rewinding one step  T
+Time -----------------------------------
+sticky = false
+end Alarm ------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+  PASS  Test ClockSet after alarm attached to clock, ESMF_AlarmUTest.F90, line 1201
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ Rewind step:           44
+ Rewind step:           45
+ Rewind step:           46
+ Rewind step:           47
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ rewinding one step  T
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ *************** end rewind *********************
+ ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:45:00
+end Time -------------------------------
+
+
+ *************** start rewind *********************
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:45:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:15:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+ ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+ ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+2000-10-02T01:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T02:00:00
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:45:00
+end Time -------------------------------
+
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+ ringing
+Time -----------------------------------
+2000-10-02T03:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T04:00:00
+ ringing
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+ ringing
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:45:00
+end Time -------------------------------
+
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+2000-10-02T05:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:45:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:15:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T06:00:00
+end Time -------------------------------
+
+2000-10-02T02:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T03:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:15:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T04:00:00
+end Time -------------------------------
+
+2000-10-02T07:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T08:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ *************** end rewind *********************
+ alarm_900 is ringing
+Time -----------------------------------
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T05:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:45:00
+end Time -------------------------------
+
+2000-10-02T09:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:15:00
+ ringing
+ *************** start rewind *********************
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+ ringing
+Time -----------------------------------
+2000-10-02T10:00:00
+end Time -------------------------------
+
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-02T06:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+2000-10-02T07:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:15:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T11:00:00
+end Time -------------------------------
+
+ ringing
+ ringing
+Time -----------------------------------
+2000-10-02T08:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-02T12:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+ Rewind step:            1
+ Rewind step:            2
+ Rewind step:            3
+ rewinding one step  T
+Time -----------------------------------
+ ringing
+Time -----------------------------------
+2000-10-02T13:00:00
+end Time -------------------------------
+
+2000-10-01T22:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:45:00
+end Time -------------------------------
+
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:45:00
+end Time -------------------------------
+
+2000-10-02T08:00:00
+end Time -------------------------------
+
+ Rewind step:            4
+ Rewind step:            5
+ Rewind step:            6
+ ringing
+Time -----------------------------------
+2000-10-02T14:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+ Rewind step:            7
+ rewinding one step  T
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:15:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-02T07:00:00
+end Time -------------------------------
+
+ Rewind step:            8
+ Rewind step:            9
+ Rewind step:           10
+2000-10-02T15:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T16:00:00
+end Time -------------------------------
+
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ Rewind step:           11
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T06:00:00
+end Time -------------------------------
+
+ Rewind step:           12
+ ringing
+Time -----------------------------------
+2000-10-02T17:00:00
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:45:00
+end Time -------------------------------
+
+ Rewind step:           13
+2000-10-01T21:30:00
+end Time -------------------------------
+
+ Rewind step:           14
+ Rewind step:           15
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T05:00:00
+end Time -------------------------------
+
+ Rewind step:           16
+ ringing
+Time -----------------------------------
+2000-10-02T18:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:15:00
+end Time -------------------------------
+
+2000-10-02T00:15:00
+end Time -------------------------------
+
+ Rewind step:           17
+ ringing
+Time -----------------------------------
+2000-10-02T19:00:00
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T00:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T00:30:00
+end Time -------------------------------
+
+ Rewind step:           18
+ Rewind step:           19
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T04:00:00
+end Time -------------------------------
+
+ Rewind step:           20
+ Rewind step:           21
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ *************** end rewind *********************
+ alarm_900 is ringing
+Time -----------------------------------
+ Rewind step:           22
+ Rewind step:           23
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T20:00:00
+end Time -------------------------------
+
+  PASS  Test multiple alarms rewind correct number of times, ESMF_AlarmUTest.F90, line 1214
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T00:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+2000-10-02T01:00:00
+end Time -------------------------------
+
+2000-10-02T03:00:00
+end Time -------------------------------
+
+ Rewind step:           24
+ alarm_900 is ringing
+Time -----------------------------------
+ Rewind step:           25
+ Rewind step:           26
+ Rewind step:           27
+ rewinding one step  T
+Time -----------------------------------
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T01:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T01:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+2000-10-02T01:30:00
+end Time -------------------------------
+
+2000-10-02T02:00:00
+end Time -------------------------------
+
+ Rewind step:           28
+ Rewind step:           29
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:45:00
+end Time -------------------------------
+
+ Rewind step:           30
+ Rewind step:           31
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T01:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T02:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+2000-10-02T02:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+ Rewind step:           32
+ Rewind step:           33
+ Rewind step:           34
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:15:00
+end Time -------------------------------
+
+ Rewind step:           35
+ rewinding one step  T
+Time -----------------------------------
+2000-10-02T02:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T02:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T02:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T02:45:00
+end Time -------------------------------
+
+2000-10-02T00:00:00
+end Time -------------------------------
+
+ Rewind step:           36
+ Rewind step:           37
+ Rewind step:           38
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:45:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+  PASS  Test running an alarms forward-reverse-forward with ring interval equal to clock interval, ESMF_AlarmUTest.F90, line 1236
+ Rewind step:           39
+ rewinding one step  T
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ Rewind step:           40
+ Rewind step:           41
+ Rewind step:           42
+ Rewind step:           43
+ rewinding one step  T
+Time -----------------------------------
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ Rewind step:           44
+ Rewind step:           45
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ Rewind step:           46
+ Rewind step:           47
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:45:00
+end Time -------------------------------
+
+reverse = T
+sticky  = F
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ rewinding one step: testalarm  F
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ rewinding one step  T
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+Alarm ----------------------------------
+sticky = false
+end Alarm ------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+  PASS  Test running an alarm reverse with sticky bit set, ESMF_AlarmUTest.F90, line 1247
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ rewinding one step: testalarm  F
+ *************** end rewind *********************
+ ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T00:15:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2021-04-06T00:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T00:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T00:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+ rewinding one step: testalarm  T
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+2021-04-06T01:40:00
+end Time -------------------------------
+
+2000-10-02T00:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+
+ alarm is ringing           1
+Time -----------------------------------
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+ ringing
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T01:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T01:30:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-02T01:00:00
+2021-04-06T00:02:00
+end Time -------------------------------
+
+ Ring Time
+Time -----------------------------------
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T01:30:00
+end Time -------------------------------
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T02:00:00
+end Time -------------------------------
+
+2021-04-06T00:02:00
+end Time -------------------------------
+
+ alarm is ringing           2
+Time -----------------------------------
+2021-04-06T00:04:00
+end Time -------------------------------
+
+ Ring Time
+Time -----------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T01:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T02:00:00
+end Time -------------------------------
+
+2021-04-06T00:04:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T03:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T02:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T04:00:00
+end Time -------------------------------
+
+ alarm is ringing           3
+Time -----------------------------------
+2021-04-06T00:06:00
+end Time -------------------------------
+
+ Ring Time
+Time -----------------------------------
+2021-04-06T00:06:00
+end Time -------------------------------
+
+  PASS  Test getPrevRingTime... after alarm attached to clock, ESMF_AlarmUTest.F90, line 1259
+Time -----------------------------------
+2000-10-02T02:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T02:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T02:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T02:30:00
+end Time -------------------------------
+
+  PASS  Test multiple alarms replay without hanging, ESMF_AlarmUTest.F90, line 1225
+ ringing
+Time -----------------------------------
+2000-10-02T05:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T02:45:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T06:00:00
+end Time -------------------------------
+
+  Ending Test, file ESMF_AlarmUTest.F90, line 1273
+  PASS  Test running an alarms forward-reverse-forward with ring interval equal to clock interval, ESMF_AlarmUTest.F90, line 1236
+ ringing
+Time -----------------------------------
+2000-10-02T07:00:00
+end Time -------------------------------
+
+reverse = T
+sticky  = F
+ ringing
+Time -----------------------------------
+2000-10-02T08:00:00
+end Time -------------------------------
+
+Alarm ----------------------------------
+sticky = false
+end Alarm ------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T09:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+  PASS  Test running an alarm reverse with sticky bit set, ESMF_AlarmUTest.F90, line 1247
+ ringing
+Time -----------------------------------
+2000-10-02T10:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+Time -----------------------------------
+2021-04-06T00:00:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T11:00:00
+end Time -------------------------------
+
+2000-10-01T21:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+ ringing
+Time -----------------------------------
+Time -----------------------------------
+2021-04-06T01:40:00
+end Time -------------------------------
+
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+2000-10-02T12:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:45:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T13:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm is ringing           1
+Time -----------------------------------
+2021-04-06T00:02:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T14:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:15:00
+end Time -------------------------------
+
+ Ring Time
+Time -----------------------------------
+2021-04-06T00:02:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+ ringing
+Time -----------------------------------
+2000-10-02T15:00:00
+end Time -------------------------------
+
+ alarm is ringing           2
+Time -----------------------------------
+2021-04-06T00:04:00
+end Time -------------------------------
+
+ Ring Time
+Time -----------------------------------
+2021-04-06T00:04:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:45:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+ alarm is ringing           3
+Time -----------------------------------
+2021-04-06T00:06:00
+end Time -------------------------------
+
+ Ring Time
+Time -----------------------------------
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+2000-10-02T16:00:00
+end Time -------------------------------
+
+2021-04-06T00:06:00
+end Time -------------------------------
+
+  PASS  Test getPrevRingTime... after alarm attached to clock, ESMF_AlarmUTest.F90, line 1259
+ ringing
+Time -----------------------------------
+2000-10-02T17:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+ ringing
+Time -----------------------------------
+2000-10-02T18:00:00
+end Time -------------------------------
+
+2000-10-01T23:30:00
+end Time -------------------------------
+
+  Ending Test, file ESMF_AlarmUTest.F90, line 1273
+ ringing
+Time -----------------------------------
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:45:00
+end Time -------------------------------
+
+2000-10-02T19:00:00
+end Time -------------------------------
+
+ *************** start rewind *********************
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:45:00
+end Time -------------------------------
+
+ ringing
+Time -----------------------------------
+2000-10-02T20:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+  PASS  Test multiple alarms rewind correct number of times, ESMF_AlarmUTest.F90, line 1214
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:45:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ *************** end rewind *********************
+ alarm_900 is ringing
+Time -----------------------------------
+ rewinding one step: testalarm  F
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:15:00
+end Time -------------------------------
+
+ rewinding one step: testalarm  F
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+Time -----------------------------------
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ rewinding one step: testalarm  T
+Time -----------------------------------
+2000-10-01T21:45:00
+end Time -------------------------------
+
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:15:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+ alarm_900 is ringing
+Time -----------------------------------
+
+2000-10-01T22:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+2000-10-01T22:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:15:00
+end Time -------------------------------
+
+Time -----------------------------------
+2000-10-02T02:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:45:00
+end Time -------------------------------
+
+  PASS  Test multiple alarms replay without hanging, ESMF_AlarmUTest.F90, line 1225
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T00:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T00:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T00:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T00:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T01:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T01:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T01:30:00
+end Time -------------------------------
+
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T01:45:00
+end Time -------------------------------
+
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T02:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:15:00
+end Time -------------------------------
+
+2000-10-02T02:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T02:15:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T02:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:45:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T02:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T02:45:00
+end Time -------------------------------
+
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+  PASS  Test running an alarms forward-reverse-forward with ring interval equal to clock interval, ESMF_AlarmUTest.F90, line 1236
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+reverse = T
+sticky  = F
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+Alarm ----------------------------------
+sticky = false
+end Alarm ------------------------------
+
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+  PASS  Test running an alarm reverse with sticky bit set, ESMF_AlarmUTest.F90, line 1247
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+2021-04-06T00:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2021-04-06T01:40:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:45:00
+end Time -------------------------------
+
+ *************** start rewind *********************
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:45:00
+end Time -------------------------------
+
+ alarm is ringing           1
+Time -----------------------------------
+2021-04-06T00:02:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ Ring Time
+Time -----------------------------------
+2021-04-06T00:02:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ alarm is ringing           2
+Time -----------------------------------
+2021-04-06T00:04:00
+end Time -------------------------------
+
+ Ring Time
+Time -----------------------------------
+2021-04-06T00:04:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:15:00
+end Time -------------------------------
+
+ alarm is ringing           3
+Time -----------------------------------
+2021-04-06T00:06:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+ Ring Time
+Time -----------------------------------
+2021-04-06T00:06:00
+end Time -------------------------------
+
+2000-10-01T23:00:00
+end Time -------------------------------
+
+  PASS  Test getPrevRingTime... after alarm attached to clock, ESMF_AlarmUTest.F90, line 1259
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:45:00
+end Time -------------------------------
+
+  Ending Test, file ESMF_AlarmUTest.F90, line 1273
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ *************** end rewind *********************
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T21:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T21:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T22:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T22:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-01T23:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-01T23:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T00:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T00:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T00:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T00:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T00:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T01:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T01:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T01:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T01:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T01:45:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T02:00:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T02:00:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T02:15:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T02:30:00
+end Time -------------------------------
+
+ alarm_1800 is ringing
+Time -----------------------------------
+2000-10-02T02:30:00
+end Time -------------------------------
+
+ alarm_900 is ringing
+Time -----------------------------------
+2000-10-02T02:45:00
+end Time -------------------------------
+
+  PASS  Test running an alarms forward-reverse-forward with ring interval equal to clock interval, ESMF_AlarmUTest.F90, line 1236
+reverse = T
+sticky  = F
+Alarm ----------------------------------
+sticky = false
+end Alarm ------------------------------
+
+  PASS  Test running an alarm reverse with sticky bit set, ESMF_AlarmUTest.F90, line 1247
+Time -----------------------------------
+2021-04-06T00:00:00
+end Time -------------------------------
+
+Time -----------------------------------
+2021-04-06T01:40:00
+end Time -------------------------------
+
+ alarm is ringing           1
+Time -----------------------------------
+2021-04-06T00:02:00
+end Time -------------------------------
+
+ Ring Time
+Time -----------------------------------
+2021-04-06T00:02:00
+end Time -------------------------------
+
+ alarm is ringing           2
+Time -----------------------------------
+2021-04-06T00:04:00
+end Time -------------------------------
+
+ Ring Time
+Time -----------------------------------
+2021-04-06T00:04:00
+end Time -------------------------------
+
+ alarm is ringing           3
+Time -----------------------------------
+2021-04-06T00:06:00
+end Time -------------------------------
+
+ Ring Time
+Time -----------------------------------
+2021-04-06T00:06:00
+end Time -------------------------------
+
+  PASS  Test getPrevRingTime... after alarm attached to clock, ESMF_AlarmUTest.F90, line 1259
+  Ending Test, file ESMF_AlarmUTest.F90, line 1273
+  PET           0  Test Elapsed Time    13.433000000000000       msec.
+  PET           2  Test Elapsed Time    12.818999999999997       msec.
+  PET           1  Test Elapsed Time    13.012999999999996       msec.
+  PET           3  Test Elapsed Time    14.286999999999994       msec.
