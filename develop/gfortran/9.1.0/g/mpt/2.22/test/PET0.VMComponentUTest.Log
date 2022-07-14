@@ -1,0 +1,160 @@
+2022-07-14 01:52:04
+20220714 020236.956 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 020236.956 INFO             PET0 !!! THE ESMF_LOG IS SET TO OUTPUT ALL LOG MESSAGES !!!
+20220714 020236.956 INFO             PET0 !!!     THIS MAY CAUSE SLOWDOWN IN PERFORMANCE     !!!
+20220714 020236.956 INFO             PET0 !!! FOR PRODUCTION RUNS, USE:                      !!!
+20220714 020236.956 INFO             PET0 !!!                   ESMF_LOGKIND_Multi_On_Error  !!!
+20220714 020236.956 INFO             PET0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+20220714 020236.956 INFO             PET0 Running with ESMF Version   : v8.4.0b04
+20220714 020236.956 INFO             PET0 ESMF library build date/time: "Jul 14 2022" "01:48:53"
+20220714 020236.956 INFO             PET0 ESMF library build location : /glade/scratch/dunlap/esmf-test-dev/gfortran_9.1.0_mpt_g_develop/esmf
+20220714 020236.956 INFO             PET0 ESMF_COMM                   : mpt
+20220714 020236.956 INFO             PET0 ESMF_MOAB                   : enabled
+20220714 020236.956 INFO             PET0 ESMF_LAPACK                 : enabled
+20220714 020236.956 INFO             PET0 ESMF_NETCDF                 : enabled
+20220714 020236.956 INFO             PET0 ESMF_PNETCDF                : disabled
+20220714 020236.956 INFO             PET0 ESMF_PIO                    : enabled
+20220714 020236.956 INFO             PET0 ESMF_YAMLCPP                : enabled
+20220714 020236.956 INFO             PET0  Beginning Test, file ESMF_VMComponentUTest.F90, line 216
+20220714 020236.956 INFO             PET0  NUMBER_OF_PROCESSORS           4
+20220714 020236.958 INFO             PET0  PASS  Component Create/SetServices/Destroy Test, ESMF_VMComponentUTest.F90, line 255
+20220714 020236.958 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020236.958 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020236.958 INFO             PET0  PASS  Component Create/SetServices/Destroy ForcePthreads Test, ESMF_VMComponentUTest.F90, line 289
+20220714 020236.959 INFO             PET0  PASS  Testing VM IsCreated for uncreated object, ESMF_VMComponentUTest.F90, line 296
+20220714 020236.959 INFO             PET0  PASS  Testing VM IsCreated for uncreated object, ESMF_VMComponentUTest.F90, line 303
+20220714 020236.959 INFO             PET0  PASS  Create test VM for IsCreated, ESMF_VMComponentUTest.F90, line 311
+20220714 020236.959 INFO             PET0  PASS  Set test VM for IsCreated, ESMF_VMComponentUTest.F90, line 320
+20220714 020236.959 INFO             PET0  PASS  Get test VM for IsCreated, ESMF_VMComponentUTest.F90, line 328
+20220714 020236.959 INFO             PET0  PASS  Testing VM IsCreated for created object, ESMF_VMComponentUTest.F90, line 336
+20220714 020236.959 INFO             PET0  PASS  Testing VM IsCreated for created object, ESMF_VMComponentUTest.F90, line 343
+20220714 020236.959 INFO             PET0  PASS  Destroy test VM for IsCreated, ESMF_VMComponentUTest.F90, line 351
+20220714 020237.471 INFO             PET0  PASS  Exhaustive Component Create/SetServices/Destroy Test, ESMF_VMComponentUTest.F90, line 387
+20220714 020237.471 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.472 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.472 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.472 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.475 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.475 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.475 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.476 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.476 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.476 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.476 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.477 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.477 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.477 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.477 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.477 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.478 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.478 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.478 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.478 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.478 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.479 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.479 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.479 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.479 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.480 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.480 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.480 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.480 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.480 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.481 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.481 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.481 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.481 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.482 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.482 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.482 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.482 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.483 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.483 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.483 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.483 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.483 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.484 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.484 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.484 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.484 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.485 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.485 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.485 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.485 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.486 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.486 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.486 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.486 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.487 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.487 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.487 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.487 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.487 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.488 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.488 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.488 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.488 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.489 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.489 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.489 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.489 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.490 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.490 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.490 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.490 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.491 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.491 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.491 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.491 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.491 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.492 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.492 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.492 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.492 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.493 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.493 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.493 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.493 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.494 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.494 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.494 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.494 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.495 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.495 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.495 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.495 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.495 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.496 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.496 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.496 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.496 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.497 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.497 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.497 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.497 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.498 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.498 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.498 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.498 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.499 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.499 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.499 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.499 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.500 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.500 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.500 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.500 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.501 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.501 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.501 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.501 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.502 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.502 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.502 DEBUG            PET0 vmkt_create()#198 Pthread: service=0 (0: actual PET, 1: service thread) - PTHREAD_STACK_MIN: 16384 bytes stack_size: 20971520 bytes
+20220714 020237.502 ERROR            PET0 ESMCI_VM.C:874 ESMCI::VM::startup() System call error  -  - VMKernel could not create additional pthreads! Please check stack limit.
+20220714 020237.502 ERROR            PET0 ESMCI_FTable.C:1426 ESMCI::Ftable::setServices System call error  - Internal subroutine call returned Error
+20220714 020237.502 ERROR            PET0 ESMCI_FTable.C:278 c_esmc_setservices System call error  - Internal subroutine call returned Error
+20220714 020237.502 ERROR            PET0 ESMF_GridComp.F90:2501 ESMF_GridCompSetServices System call error  - Internal subroutine call returned Error
+20220714 020237.502 INFO             PET0  FAIL  Exhaustive Component Create/SetServices/Destroy ForcePthreads Test, ESMF_VMComponentUTest.F90, line 420:  Failure codes returned!
+20220714 020237.502 INFO             PET0  Ending Test, file ESMF_VMComponentUTest.F90, line 425
+20220714 020237.502 INFO             PET0 Finalizing ESMF
